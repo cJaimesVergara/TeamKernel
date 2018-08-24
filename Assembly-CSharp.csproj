@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{B269331C-6970-05C7-7FF5-1E7F1C721B74}</ProjectGuid>
+    <ProjectGuid>{8FA0C985-E689-BF32-8716-A000B3CE7548}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -188,6 +188,7 @@
     <Compile Include="Assets\gvr-unity-sdk-1.100.1\Assets\GoogleVR\Scripts\Utilities\GvrMathHelpers.cs" />
     <Compile Include="Assets\gvr-unity-sdk-1.100.1\Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
     <Compile Include="Assets\gvr-unity-sdk-1.100.1\Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+    <Compile Include="Assets\Scripts\WaypointMovement.cs" />
     <None Include="Assets\gvr-unity-sdk-1.100.1\Assets\GoogleVR\Plugins\Android\proguard-gvr.txt" />
     <None Include="Assets\gvr-unity-sdk-1.100.1\Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
     <None Include="Assets\gvr-unity-sdk-1.100.1\ProjectSettings\ProjectVersion.txt" />
@@ -210,16 +211,16 @@
     <None Include="Assets\gvr-unity-sdk-1.100.1\Assets\GoogleVR\Shaders\GvrUIOverlay.shader" />
     <None Include="Assets\gvr-unity-sdk-1.100.1\Assets\GoogleVR\Plugins\Android\AndroidManifest-Cardboard.xml" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/user/Documents/Team Kernel/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/user/Documents/TeamKernelGH/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/user/Documents/Team Kernel/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Documents/TeamKernelGH/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/user/Documents/Team Kernel/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Documents/TeamKernelGH/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/user/Documents/Team Kernel/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/user/Documents/TeamKernelGH/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity2018.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -417,7 +418,7 @@
       <HintPath>C:/Program Files/Unity2018.2.4f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Google.ProtocolBuffers">
-      <HintPath>C:/Users/user/Documents/Team Kernel/Assets/gvr-unity-sdk-1.100.1/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+      <HintPath>C:/Users/user/Documents/TeamKernelGH/Assets/gvr-unity-sdk-1.100.1/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/user/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
@@ -452,6 +453,12 @@
     <Reference Include="Boo.Lang">
       <HintPath>C:/Program Files/Unity2018.2.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll</HintPath>
     </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{F208F9BF-AC76-E9EB-5574-249DEBE7B1BF}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
