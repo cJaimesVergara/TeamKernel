@@ -18,14 +18,14 @@ public class WaypointMovement : MonoBehaviour {
 		if (!teleport) {
 			iTween.MoveTo (player, 
 				iTween.Hash (
-					"position", new Vector3 (waypoint.transform.position.x, waypoint.transform.position.y + height / 2, waypoint.transform.position.z), 
+					"position", new Vector3 (waypoint.transform.position.x,height, waypoint.transform.position.z), 
 					"time", .2F, 
 					"easetype", "linear"
 				)
 			);
 		} else {
 			player.transform.position = new Vector3 (waypoint.transform.position.x, 
-                waypoint.transform.position.y + height / 2, 
+                height , 
                 waypoint.transform.position.z);
 		}
 	}
