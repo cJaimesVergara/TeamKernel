@@ -445,6 +445,7 @@
     <Compile Include="Assets\HerdSim\Scripts\HerdSimCore.cs" />
     <Compile Include="Assets\HerdSim\Scripts\HerdSimDisabler.cs" />
     <Compile Include="Assets\HerdSim\Scripts\HerdSimScary.cs" />
+    <Compile Include="Assets\Scripts\RatBehavior.cs" />
     <Compile Include="Assets\Scripts\WaypointMovement.cs" />
   </ItemGroup>
   <ItemGroup>
