@@ -193,6 +193,8 @@
     <Compile Include="Assets\HerdSim\Scripts\HerdSimCore.cs" />
     <Compile Include="Assets\HerdSim\Scripts\HerdSimDisabler.cs" />
     <Compile Include="Assets\HerdSim\Scripts\HerdSimScary.cs" />
+    <Compile Include="Assets\Scripts\LookCamera.cs" />
+    <Compile Include="Assets\Scripts\RatBehavior.cs" />
     <Compile Include="Assets\Scripts\WaypointMovement.cs" />
     <None Include="Assets\gvr-unity-sdk-1.100.1\Assets\GoogleVR\Plugins\Android\proguard-gvr.txt" />
     <None Include="Assets\gvr-unity-sdk-1.100.1\Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />

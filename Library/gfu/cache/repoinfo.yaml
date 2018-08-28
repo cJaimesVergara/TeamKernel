@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-08-27T20:42:26.608-05:00
-  initializedAtString: 2018-08-27T20:42:26.608-05:00
+  lastUpdatedAtString: 2018-08-28T16:15:44.400-05:00
+  initializedAtString: 2018-08-28T16:15:44.400-05:00
   currentGitRemote:
     name: origin
-    url: https://github.com/cJaimesVergara/TeamKernel
+    url: https://github.com/cJaimesVergara/TeamKernel.git
     login: 
     user: 
     host: 
@@ -29,9 +29,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/cJaimesVergara/TeamKernel
+      url: https://github.com/cJaimesVergara/TeamKernel.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/cJaimesVergara/TeamKernel
-  currentHead: c383a25
+    url: https://github.com/cJaimesVergara/TeamKernel.git
+  currentHead: ad32dcf

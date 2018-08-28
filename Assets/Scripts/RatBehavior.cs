@@ -7,14 +7,12 @@ public class RatBehavior : MonoBehaviour {
     public GameObject putInObject;
     public GameObject ratInCage;
 
-
     public void ToCage() {
         ratInCage.SetActive(true);
         GameObject.Destroy(this.gameObject);
     }
 
-    public void makenoise() {
+    public void Makenoise() {
         Debug.Log("NOISE");
     }
-	
 }
