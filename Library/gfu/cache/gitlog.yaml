@@ -12,9 +12,1925 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-08-29T23:33:52.254-05:00
-  initializedAtString: 2018-08-29T23:14:58.722-05:00
+  lastUpdatedAtString: 2018-08-30T07:56:03.575-05:00
+  initializedAtString: 2018-08-29T23:42:11.360-05:00
   log:
+  - commitID: b64574ab02ecc6c8c9fcbbdf2e41a0701694d60e
+    mergeA: 
+    mergeB: 
+    authorName: DESKTOP-CLGEOEL\CarlosJaimes
+    authorEmail: cjaimes_vergara@hotmail.com
+    commitEmail: cjaimes_vergara@hotmail.com
+    commitName: DESKTOP-CLGEOEL\CarlosJaimes
+    summary: centrifuge Behavior added.
+    description: centrifuge Behavior added.
+    timeString: 2018-08-29T23:37:35.000-05:00
+    commitTimeString: 2018-08-29T23:37:35.000-05:00
+    changes:
+    - path: .vs\TeamKernelGH\v15\.suo
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\.vs\TeamKernelGH\v15\.suo
+      projectPath: .vs\TeamKernelGH\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\CentrifugeBehavior.cs
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\CentrifugeBehavior.cs
+      projectPath: Assets\CentrifugeBehavior.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\CentrifugeBehavior.cs.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\CentrifugeBehavior.cs.meta
+      projectPath: Assets\CentrifugeBehavior.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DNK_Dev\IndustrialDoors\Models\SM_Door02.obj.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\DNK_Dev\IndustrialDoors\Models\SM_Door02.obj.meta
+      projectPath: Assets\DNK_Dev\IndustrialDoors\Models\SM_Door02.obj.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\DNK_Dev\IndustrialDoors\Models\SM_Door02_Jamb.obj.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\DNK_Dev\IndustrialDoors\Models\SM_Door02_Jamb.obj.meta
+      projectPath: Assets\DNK_Dev\IndustrialDoors\Models\SM_Door02_Jamb.obj.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\DNK_Dev\IndustrialDoors\_Old version\Door02\SM_Door02.obj.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\DNK_Dev\IndustrialDoors\_Old
+        version\Door02\SM_Door02.obj.meta
+      projectPath: Assets\DNK_Dev\IndustrialDoors\_Old version\Door02\SM_Door02.obj.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\DNK_Dev\IndustrialDoors\_Old version\Door02\SM_Door02a.obj.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\DNK_Dev\IndustrialDoors\_Old
+        version\Door02\SM_Door02a.obj.meta
+      projectPath: Assets\DNK_Dev\IndustrialDoors\_Old version\Door02\SM_Door02a.obj.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\SampleScene.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene.meta
+      projectPath: Assets\Scenes\SampleScene.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\SampleScene\LightingData.asset
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\LightingData.asset
+      projectPath: Assets\Scenes\SampleScene\LightingData.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\LightingData.asset.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\LightingData.asset.meta
+      projectPath: Assets\Scenes\SampleScene\LightingData.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png
+      projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png.meta
+      projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr
+      projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr.meta
+      projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png
+      projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png.meta
+      projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\ReflectionProbe-0.exr
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-0.exr
+      projectPath: Assets\Scenes\SampleScene\ReflectionProbe-0.exr
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\ReflectionProbe-0.exr.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-0.exr.meta
+      projectPath: Assets\Scenes\SampleScene\ReflectionProbe-0.exr.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\ReflectionProbe-1.exr
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-1.exr
+      projectPath: Assets\Scenes\SampleScene\ReflectionProbe-1.exr
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\ReflectionProbe-1.exr.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-1.exr.meta
+      projectPath: Assets\Scenes\SampleScene\ReflectionProbe-1.exr.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\ReflectionProbe-2.exr
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-2.exr
+      projectPath: Assets\Scenes\SampleScene\ReflectionProbe-2.exr
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\ReflectionProbe-2.exr.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-2.exr.meta
+      projectPath: Assets\Scenes\SampleScene\ReflectionProbe-2.exr.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\LookCamera.cs
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scripts\LookCamera.cs
+      projectPath: Assets\Scripts\LookCamera.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ShaderCache.db
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache.db
+      projectPath: Library\ShaderCache.db
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00f93e3df109d4a69834d44deb072725
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\00\00f93e3df109d4a69834d44deb072725
+      projectPath: Library\metadata\00\00f93e3df109d4a69834d44deb072725
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1
+      projectPath: Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1.info
+      projectPath: Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\05\05d7d64713447433b86cb9a4e3d48560
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\05\05d7d64713447433b86cb9a4e3d48560
+      projectPath: Library\metadata\05\05d7d64713447433b86cb9a4e3d48560
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\05\05fff0e65757e9f43b427fb22c296836
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\05\05fff0e65757e9f43b427fb22c296836
+      projectPath: Library\metadata\05\05fff0e65757e9f43b427fb22c296836
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\06\06aa46b8e43675d43b204c3638e59767
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\06\06aa46b8e43675d43b204c3638e59767
+      projectPath: Library\metadata\06\06aa46b8e43675d43b204c3638e59767
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\08\08d3eb3caabff3f47ac34c183ff41827
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\08\08d3eb3caabff3f47ac34c183ff41827
+      projectPath: Library\metadata\08\08d3eb3caabff3f47ac34c183ff41827
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\08\08d3eb3caabff3f47ac34c183ff41827.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\08\08d3eb3caabff3f47ac34c183ff41827.info
+      projectPath: Library\metadata\08\08d3eb3caabff3f47ac34c183ff41827.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\0a\0ae37b2426f844468ab02f411263ae0d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\0a\0ae37b2426f844468ab02f411263ae0d
+      projectPath: Library\metadata\0a\0ae37b2426f844468ab02f411263ae0d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\0c\0ca644865f5f4479fb50471605078cf0
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\0c\0ca644865f5f4479fb50471605078cf0
+      projectPath: Library\metadata\0c\0ca644865f5f4479fb50471605078cf0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\0c\0cc7f51d6c6b140f79f7afded8b84284
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\0c\0cc7f51d6c6b140f79f7afded8b84284
+      projectPath: Library\metadata\0c\0cc7f51d6c6b140f79f7afded8b84284
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\0f\0f791be37caef48c79f72011276ab16a
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\0f\0f791be37caef48c79f72011276ab16a
+      projectPath: Library\metadata\0f\0f791be37caef48c79f72011276ab16a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\11\114ed7f3f1d114a2988b1f93a233b40e
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\11\114ed7f3f1d114a2988b1f93a233b40e
+      projectPath: Library\metadata\11\114ed7f3f1d114a2988b1f93a233b40e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\11\116aa03c0c7108b4d8313bcd04483475
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\11\116aa03c0c7108b4d8313bcd04483475
+      projectPath: Library\metadata\11\116aa03c0c7108b4d8313bcd04483475
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\11\118ed627eb676472d803284d1a988bbd
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\11\118ed627eb676472d803284d1a988bbd
+      projectPath: Library\metadata\11\118ed627eb676472d803284d1a988bbd
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\11\11ce60bdf78924133940a4a64555e784
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\11\11ce60bdf78924133940a4a64555e784
+      projectPath: Library\metadata\11\11ce60bdf78924133940a4a64555e784
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\12\127c2783105b84d52adbb2499339f572
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\12\127c2783105b84d52adbb2499339f572
+      projectPath: Library\metadata\12\127c2783105b84d52adbb2499339f572
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\12\12a1c3242abf449bc9a04b3538e9d3b5
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\12\12a1c3242abf449bc9a04b3538e9d3b5
+      projectPath: Library\metadata\12\12a1c3242abf449bc9a04b3538e9d3b5
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\12\12bd1ba026e3d49a285ef666388aa4e9
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\12\12bd1ba026e3d49a285ef666388aa4e9
+      projectPath: Library\metadata\12\12bd1ba026e3d49a285ef666388aa4e9
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\14\14349703495db424b80d8268ae6629f3
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\14\14349703495db424b80d8268ae6629f3
+      projectPath: Library\metadata\14\14349703495db424b80d8268ae6629f3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\15\15e327f750b786c46a9ec3995f60c81f
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\15\15e327f750b786c46a9ec3995f60c81f
+      projectPath: Library\metadata\15\15e327f750b786c46a9ec3995f60c81f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\15\15e327f750b786c46a9ec3995f60c81f.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\15\15e327f750b786c46a9ec3995f60c81f.info
+      projectPath: Library\metadata\15\15e327f750b786c46a9ec3995f60c81f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\17\171f0a30d9ead4516a8fa319cfebe270
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\17\171f0a30d9ead4516a8fa319cfebe270
+      projectPath: Library\metadata\17\171f0a30d9ead4516a8fa319cfebe270
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\19\19a9f6c7cb74d44bd9bbc87397789f7c
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\19\19a9f6c7cb74d44bd9bbc87397789f7c
+      projectPath: Library\metadata\19\19a9f6c7cb74d44bd9bbc87397789f7c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\19\19e5a138c07e971438b2b18c8e716479
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\19\19e5a138c07e971438b2b18c8e716479
+      projectPath: Library\metadata\19\19e5a138c07e971438b2b18c8e716479
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\19\19e5a138c07e971438b2b18c8e716479.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\19\19e5a138c07e971438b2b18c8e716479.info
+      projectPath: Library\metadata\19\19e5a138c07e971438b2b18c8e716479.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\1a\1a6b456eb0cd540a489e0f82c377b187
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1a\1a6b456eb0cd540a489e0f82c377b187
+      projectPath: Library\metadata\1a\1a6b456eb0cd540a489e0f82c377b187
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\1a\1a8761daaa87949d9bfee83827f1cf81
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1a\1a8761daaa87949d9bfee83827f1cf81
+      projectPath: Library\metadata\1a\1a8761daaa87949d9bfee83827f1cf81
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\1b\1b78ffabb50d1e94ca164106f5444e34
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1b\1b78ffabb50d1e94ca164106f5444e34
+      projectPath: Library\metadata\1b\1b78ffabb50d1e94ca164106f5444e34
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\1b\1bec9ea3efe7849ffae666549aca3cad
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1b\1bec9ea3efe7849ffae666549aca3cad
+      projectPath: Library\metadata\1b\1bec9ea3efe7849ffae666549aca3cad
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\1d\1d2722c2401e34d51bf5b473ef7aeefb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1d\1d2722c2401e34d51bf5b473ef7aeefb
+      projectPath: Library\metadata\1d\1d2722c2401e34d51bf5b473ef7aeefb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\1d\1d94b17868379452aad02b04eb7b0e6e
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1d\1d94b17868379452aad02b04eb7b0e6e
+      projectPath: Library\metadata\1d\1d94b17868379452aad02b04eb7b0e6e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\1e\1e01e071f24074f47ad06e071042bc78
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1e\1e01e071f24074f47ad06e071042bc78
+      projectPath: Library\metadata\1e\1e01e071f24074f47ad06e071042bc78
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\1e\1e108ae5f2133934f948edded555f03e
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1e\1e108ae5f2133934f948edded555f03e
+      projectPath: Library\metadata\1e\1e108ae5f2133934f948edded555f03e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\1e\1e108ae5f2133934f948edded555f03e.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1e\1e108ae5f2133934f948edded555f03e.info
+      projectPath: Library\metadata\1e\1e108ae5f2133934f948edded555f03e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\1f\1f16e78d5a8cbe946b9dbaad22815581
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1f\1f16e78d5a8cbe946b9dbaad22815581
+      projectPath: Library\metadata\1f\1f16e78d5a8cbe946b9dbaad22815581
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\20\202d210fc2b604dee928480c82722957
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\20\202d210fc2b604dee928480c82722957
+      projectPath: Library\metadata\20\202d210fc2b604dee928480c82722957
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\20\2057fd0fa21f34bc2ba2dd2a4a2a38b5
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\20\2057fd0fa21f34bc2ba2dd2a4a2a38b5
+      projectPath: Library\metadata\20\2057fd0fa21f34bc2ba2dd2a4a2a38b5
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\22\22a6dc478e59e4b35b25f9f26ddc4361
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\22\22a6dc478e59e4b35b25f9f26ddc4361
+      projectPath: Library\metadata\22\22a6dc478e59e4b35b25f9f26ddc4361
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\23\23485e28fa60c463f8235998a0e76e6a
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\23\23485e28fa60c463f8235998a0e76e6a
+      projectPath: Library\metadata\23\23485e28fa60c463f8235998a0e76e6a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\23\23744ffc3b678488e858089d1a2973d9
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\23\23744ffc3b678488e858089d1a2973d9
+      projectPath: Library\metadata\23\23744ffc3b678488e858089d1a2973d9
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\2a\2a443597ee157fe49a30c4310f1fb2eb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\2a\2a443597ee157fe49a30c4310f1fb2eb
+      projectPath: Library\metadata\2a\2a443597ee157fe49a30c4310f1fb2eb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\2e\2e20199949e8e4ecd992d68cf09fc902
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\2e\2e20199949e8e4ecd992d68cf09fc902
+      projectPath: Library\metadata\2e\2e20199949e8e4ecd992d68cf09fc902
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\2e\2e71f5afb881f443bbce909fe451d8fe
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\2e\2e71f5afb881f443bbce909fe451d8fe
+      projectPath: Library\metadata\2e\2e71f5afb881f443bbce909fe451d8fe
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\2e\2e929ea12d3a54876a393d0bd4308308
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\2e\2e929ea12d3a54876a393d0bd4308308
+      projectPath: Library\metadata\2e\2e929ea12d3a54876a393d0bd4308308
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\2f\2f02b8764d7e3d0478249c300d6b8b6f
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\2f\2f02b8764d7e3d0478249c300d6b8b6f
+      projectPath: Library\metadata\2f\2f02b8764d7e3d0478249c300d6b8b6f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\2f\2f02b8764d7e3d0478249c300d6b8b6f.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\2f\2f02b8764d7e3d0478249c300d6b8b6f.info
+      projectPath: Library\metadata\2f\2f02b8764d7e3d0478249c300d6b8b6f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\2f\2feb38e56a564e94b92ef4b4ad6d6de0
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\2f\2feb38e56a564e94b92ef4b4ad6d6de0
+      projectPath: Library\metadata\2f\2feb38e56a564e94b92ef4b4ad6d6de0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\31\311793381eb9d45149dc1a422000a9fd
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\31\311793381eb9d45149dc1a422000a9fd
+      projectPath: Library\metadata\31\311793381eb9d45149dc1a422000a9fd
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\31\316a3ae9ab9c52444ba2a838966a8496
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\31\316a3ae9ab9c52444ba2a838966a8496
+      projectPath: Library\metadata\31\316a3ae9ab9c52444ba2a838966a8496
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\33\33bf08613783c41f7b57052eaa664c7f
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\33\33bf08613783c41f7b57052eaa664c7f
+      projectPath: Library\metadata\33\33bf08613783c41f7b57052eaa664c7f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\35\3590c93395a39449ca11509317375cea
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\35\3590c93395a39449ca11509317375cea
+      projectPath: Library\metadata\35\3590c93395a39449ca11509317375cea
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\36\36d276bd7b313441fbe34aadce7598ca
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\36\36d276bd7b313441fbe34aadce7598ca
+      projectPath: Library\metadata\36\36d276bd7b313441fbe34aadce7598ca
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\39\3977a445bc0cbf1498161e4f4b99b771
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\39\3977a445bc0cbf1498161e4f4b99b771
+      projectPath: Library\metadata\39\3977a445bc0cbf1498161e4f4b99b771
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\39\3977a445bc0cbf1498161e4f4b99b771.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\39\3977a445bc0cbf1498161e4f4b99b771.info
+      projectPath: Library\metadata\39\3977a445bc0cbf1498161e4f4b99b771.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\39\39eb02921e5624cf18f5b235bcc1e1cb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\39\39eb02921e5624cf18f5b235bcc1e1cb
+      projectPath: Library\metadata\39\39eb02921e5624cf18f5b235bcc1e1cb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\3f\3fda152dc25154b4a9cccb75fd77f018
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\3f\3fda152dc25154b4a9cccb75fd77f018
+      projectPath: Library\metadata\3f\3fda152dc25154b4a9cccb75fd77f018
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\40\40c0b1ac77831462ab0f27d9bd64dc7d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\40\40c0b1ac77831462ab0f27d9bd64dc7d
+      projectPath: Library\metadata\40\40c0b1ac77831462ab0f27d9bd64dc7d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\40\40c0b1ac77831462ab0f27d9bd64dc7d.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\40\40c0b1ac77831462ab0f27d9bd64dc7d.info
+      projectPath: Library\metadata\40\40c0b1ac77831462ab0f27d9bd64dc7d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\40\40c22d8ba2a4b4e4ca9dc298c656f511
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\40\40c22d8ba2a4b4e4ca9dc298c656f511
+      projectPath: Library\metadata\40\40c22d8ba2a4b4e4ca9dc298c656f511
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\41\410d5a91205334dda9fd1bf3d325809a
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\41\410d5a91205334dda9fd1bf3d325809a
+      projectPath: Library\metadata\41\410d5a91205334dda9fd1bf3d325809a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\41\41251d5f89d5546bb9d8ba907686b71f
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\41\41251d5f89d5546bb9d8ba907686b71f
+      projectPath: Library\metadata\41\41251d5f89d5546bb9d8ba907686b71f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\41\41679d3338266415f88d226e6bf3d0be
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\41\41679d3338266415f88d226e6bf3d0be
+      projectPath: Library\metadata\41\41679d3338266415f88d226e6bf3d0be
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\41\41c83891d500f43ca90ce70315712c84
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\41\41c83891d500f43ca90ce70315712c84
+      projectPath: Library\metadata\41\41c83891d500f43ca90ce70315712c84
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134
+      projectPath: Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134.info
+      projectPath: Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\47\474fa42c938792b4eb88ca1215752eec
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\47\474fa42c938792b4eb88ca1215752eec
+      projectPath: Library\metadata\47\474fa42c938792b4eb88ca1215752eec
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\47\474fa42c938792b4eb88ca1215752eec.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\47\474fa42c938792b4eb88ca1215752eec.info
+      projectPath: Library\metadata\47\474fa42c938792b4eb88ca1215752eec.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\47\4768e786f437540fd9f7d0c0d5778312
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\47\4768e786f437540fd9f7d0c0d5778312
+      projectPath: Library\metadata\47\4768e786f437540fd9f7d0c0d5778312
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\47\47c85bec41d55544684b9872f7c248e9
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\47\47c85bec41d55544684b9872f7c248e9
+      projectPath: Library\metadata\47\47c85bec41d55544684b9872f7c248e9
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\48\48f7ce7c2a1174ffdac9ebd5815bfa13
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\48\48f7ce7c2a1174ffdac9ebd5815bfa13
+      projectPath: Library\metadata\48\48f7ce7c2a1174ffdac9ebd5815bfa13
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\49\494e0fcfce3cb4d1c973863b3ad4e5d0
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\49\494e0fcfce3cb4d1c973863b3ad4e5d0
+      projectPath: Library\metadata\49\494e0fcfce3cb4d1c973863b3ad4e5d0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\4b\4b50a67a5a86e4093bf89c85cbc2c700
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\4b\4b50a67a5a86e4093bf89c85cbc2c700
+      projectPath: Library\metadata\4b\4b50a67a5a86e4093bf89c85cbc2c700
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\4c\4c0ab8bdb433dc2498c7e01278498bb4
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\4c\4c0ab8bdb433dc2498c7e01278498bb4
+      projectPath: Library\metadata\4c\4c0ab8bdb433dc2498c7e01278498bb4
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\4c\4c0ab8bdb433dc2498c7e01278498bb4.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\4c\4c0ab8bdb433dc2498c7e01278498bb4.info
+      projectPath: Library\metadata\4c\4c0ab8bdb433dc2498c7e01278498bb4.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\4e\4e8df902e7cb54f57bd1492b46fbe33d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\4e\4e8df902e7cb54f57bd1492b46fbe33d
+      projectPath: Library\metadata\4e\4e8df902e7cb54f57bd1492b46fbe33d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\50\509a29025635b4c31bb337addea72a7c
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\50\509a29025635b4c31bb337addea72a7c
+      projectPath: Library\metadata\50\509a29025635b4c31bb337addea72a7c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\51\51b65678ccdd949e9a58874d2880c0ef
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\51\51b65678ccdd949e9a58874d2880c0ef
+      projectPath: Library\metadata\51\51b65678ccdd949e9a58874d2880c0ef
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\51\51ef2cf0304834078903f5268fb18eb4
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\51\51ef2cf0304834078903f5268fb18eb4
+      projectPath: Library\metadata\51\51ef2cf0304834078903f5268fb18eb4
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\52\521257714fc9e437a9163df2d37f2ea2
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\52\521257714fc9e437a9163df2d37f2ea2
+      projectPath: Library\metadata\52\521257714fc9e437a9163df2d37f2ea2
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\52\5273cf41de20842a5917d8346dffe707
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\52\5273cf41de20842a5917d8346dffe707
+      projectPath: Library\metadata\52\5273cf41de20842a5917d8346dffe707
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\52\52d71a123c01cd946b8ba5017686c910
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\52\52d71a123c01cd946b8ba5017686c910
+      projectPath: Library\metadata\52\52d71a123c01cd946b8ba5017686c910
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77
+      projectPath: Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77.info
+      projectPath: Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\57\573e2b04dc4734d68a2b6747421ce0bc
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\57\573e2b04dc4734d68a2b6747421ce0bc
+      projectPath: Library\metadata\57\573e2b04dc4734d68a2b6747421ce0bc
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\57\57e34a0b7bd8740c5922ce5840ba3ee8
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\57\57e34a0b7bd8740c5922ce5840ba3ee8
+      projectPath: Library\metadata\57\57e34a0b7bd8740c5922ce5840ba3ee8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\5a\5a4b354a3393911459ca2025410b0c02
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\5a\5a4b354a3393911459ca2025410b0c02
+      projectPath: Library\metadata\5a\5a4b354a3393911459ca2025410b0c02
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\5a\5a4b354a3393911459ca2025410b0c02.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\5a\5a4b354a3393911459ca2025410b0c02.info
+      projectPath: Library\metadata\5a\5a4b354a3393911459ca2025410b0c02.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\5b\5baa0455970b442238015283920cc587
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\5b\5baa0455970b442238015283920cc587
+      projectPath: Library\metadata\5b\5baa0455970b442238015283920cc587
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\5d\5db1ab7348db34ecbac8c834c5d3425f
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\5d\5db1ab7348db34ecbac8c834c5d3425f
+      projectPath: Library\metadata\5d\5db1ab7348db34ecbac8c834c5d3425f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\5e\5eb60798954e54a7280c0cd353773edf
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\5e\5eb60798954e54a7280c0cd353773edf
+      projectPath: Library\metadata\5e\5eb60798954e54a7280c0cd353773edf
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\60\60d3bc197f7115240bf23f9b0317f2a0
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\60\60d3bc197f7115240bf23f9b0317f2a0
+      projectPath: Library\metadata\60\60d3bc197f7115240bf23f9b0317f2a0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\60\60d3bc197f7115240bf23f9b0317f2a0.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\60\60d3bc197f7115240bf23f9b0317f2a0.info
+      projectPath: Library\metadata\60\60d3bc197f7115240bf23f9b0317f2a0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\66\66ce34a5829a64856be634609edd8912
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\66\66ce34a5829a64856be634609edd8912
+      projectPath: Library\metadata\66\66ce34a5829a64856be634609edd8912
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\66\66fe40e11a2514648906e6825b026b85
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\66\66fe40e11a2514648906e6825b026b85
+      projectPath: Library\metadata\66\66fe40e11a2514648906e6825b026b85
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\68\680140f42b355d442a0a57a1d8fcc4b1
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\68\680140f42b355d442a0a57a1d8fcc4b1
+      projectPath: Library\metadata\68\680140f42b355d442a0a57a1d8fcc4b1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\69\690e7b31e26ac034897df25d19dc69aa
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\69\690e7b31e26ac034897df25d19dc69aa
+      projectPath: Library\metadata\69\690e7b31e26ac034897df25d19dc69aa
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\69\696c86fab86049947bd12e68a9b724cf
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\69\696c86fab86049947bd12e68a9b724cf
+      projectPath: Library\metadata\69\696c86fab86049947bd12e68a9b724cf
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\6a\6a6b6bef66b30cf4da56a85e98aa9524
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\6a\6a6b6bef66b30cf4da56a85e98aa9524
+      projectPath: Library\metadata\6a\6a6b6bef66b30cf4da56a85e98aa9524
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6a\6a6b6bef66b30cf4da56a85e98aa9524.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\6a\6a6b6bef66b30cf4da56a85e98aa9524.info
+      projectPath: Library\metadata\6a\6a6b6bef66b30cf4da56a85e98aa9524.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6b\6b06c288417967047bb4bcd5e27dbd14
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\6b\6b06c288417967047bb4bcd5e27dbd14
+      projectPath: Library\metadata\6b\6b06c288417967047bb4bcd5e27dbd14
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\6b\6b06c288417967047bb4bcd5e27dbd14.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\6b\6b06c288417967047bb4bcd5e27dbd14.info
+      projectPath: Library\metadata\6b\6b06c288417967047bb4bcd5e27dbd14.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\6b\6bf1f92fb4ae24291b71e77c1ccac323
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\6b\6bf1f92fb4ae24291b71e77c1ccac323
+      projectPath: Library\metadata\6b\6bf1f92fb4ae24291b71e77c1ccac323
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\6d\6dbca64e524ea44f9b26142ec59aca8a
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\6d\6dbca64e524ea44f9b26142ec59aca8a
+      projectPath: Library\metadata\6d\6dbca64e524ea44f9b26142ec59aca8a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\6e\6e86519b2ed7ece4cae901fc31de93cd
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\6e\6e86519b2ed7ece4cae901fc31de93cd
+      projectPath: Library\metadata\6e\6e86519b2ed7ece4cae901fc31de93cd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6e\6e86519b2ed7ece4cae901fc31de93cd.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\6e\6e86519b2ed7ece4cae901fc31de93cd.info
+      projectPath: Library\metadata\6e\6e86519b2ed7ece4cae901fc31de93cd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\70\70f36fab7a81646eeb5c083264db5be0
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\70\70f36fab7a81646eeb5c083264db5be0
+      projectPath: Library\metadata\70\70f36fab7a81646eeb5c083264db5be0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\71\710f298e6b03b4675b7af26a1765cc88
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\71\710f298e6b03b4675b7af26a1765cc88
+      projectPath: Library\metadata\71\710f298e6b03b4675b7af26a1765cc88
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\71\710f298e6b03b4675b7af26a1765cc88.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\71\710f298e6b03b4675b7af26a1765cc88.info
+      projectPath: Library\metadata\71\710f298e6b03b4675b7af26a1765cc88.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\73\7304a3fe3b19a4eb8ba4e4b21008b2f0
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\73\7304a3fe3b19a4eb8ba4e4b21008b2f0
+      projectPath: Library\metadata\73\7304a3fe3b19a4eb8ba4e4b21008b2f0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\73\739800cd36aba44e9b04ce977e5784bd
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\73\739800cd36aba44e9b04ce977e5784bd
+      projectPath: Library\metadata\73\739800cd36aba44e9b04ce977e5784bd
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\75\752806b3116324ed5a86f4709fea82ee
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\75\752806b3116324ed5a86f4709fea82ee
+      projectPath: Library\metadata\75\752806b3116324ed5a86f4709fea82ee
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\75\7528488988f9d48478da328909125dea
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\75\7528488988f9d48478da328909125dea
+      projectPath: Library\metadata\75\7528488988f9d48478da328909125dea
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\75\75e29b2b7f39fc5489e792b0f3338c79
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\75\75e29b2b7f39fc5489e792b0f3338c79
+      projectPath: Library\metadata\75\75e29b2b7f39fc5489e792b0f3338c79
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\76\76d2b695633884daf905c07095c8a01c
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\76\76d2b695633884daf905c07095c8a01c
+      projectPath: Library\metadata\76\76d2b695633884daf905c07095c8a01c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\7c\7c52851ea0de74a228fa29a84de008ba
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\7c\7c52851ea0de74a228fa29a84de008ba
+      projectPath: Library\metadata\7c\7c52851ea0de74a228fa29a84de008ba
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\7c\7c7538e6cd0744ee5854d3ceb8e92f84
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\7c\7c7538e6cd0744ee5854d3ceb8e92f84
+      projectPath: Library\metadata\7c\7c7538e6cd0744ee5854d3ceb8e92f84
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\7d\7dda4bb2d5509e44e978d2bf56e25d7c
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\7d\7dda4bb2d5509e44e978d2bf56e25d7c
+      projectPath: Library\metadata\7d\7dda4bb2d5509e44e978d2bf56e25d7c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\84\846f7b1b78d8e4eb2a0db361797b6e76
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\84\846f7b1b78d8e4eb2a0db361797b6e76
+      projectPath: Library\metadata\84\846f7b1b78d8e4eb2a0db361797b6e76
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\84\84ad368148aad42938b2fdb28552e8ac
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\84\84ad368148aad42938b2fdb28552e8ac
+      projectPath: Library\metadata\84\84ad368148aad42938b2fdb28552e8ac
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\85\858b7542787a1a44d917d8b76b6a9b47
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\85\858b7542787a1a44d917d8b76b6a9b47
+      projectPath: Library\metadata\85\858b7542787a1a44d917d8b76b6a9b47
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\85\858b7542787a1a44d917d8b76b6a9b47.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\85\858b7542787a1a44d917d8b76b6a9b47.info
+      projectPath: Library\metadata\85\858b7542787a1a44d917d8b76b6a9b47.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\89\89007d35048604468b7ff786ea401523
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\89\89007d35048604468b7ff786ea401523
+      projectPath: Library\metadata\89\89007d35048604468b7ff786ea401523
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\8a\8a93ebe04d36b49c388adce4ac442226
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\8a\8a93ebe04d36b49c388adce4ac442226
+      projectPath: Library\metadata\8a\8a93ebe04d36b49c388adce4ac442226
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\8a\8a9a760f95896c34689febc965510927
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\8a\8a9a760f95896c34689febc965510927
+      projectPath: Library\metadata\8a\8a9a760f95896c34689febc965510927
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\8a\8a9a760f95896c34689febc965510927.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\8a\8a9a760f95896c34689febc965510927.info
+      projectPath: Library\metadata\8a\8a9a760f95896c34689febc965510927.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\8c\8cab5532ccd3a4d339166fb99b903aed
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\8c\8cab5532ccd3a4d339166fb99b903aed
+      projectPath: Library\metadata\8c\8cab5532ccd3a4d339166fb99b903aed
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\8e\8e60d9f62b99c4a719cee93ab9c39374
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\8e\8e60d9f62b99c4a719cee93ab9c39374
+      projectPath: Library\metadata\8e\8e60d9f62b99c4a719cee93ab9c39374
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\8e\8e60d9f62b99c4a719cee93ab9c39374.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\8e\8e60d9f62b99c4a719cee93ab9c39374.info
+      projectPath: Library\metadata\8e\8e60d9f62b99c4a719cee93ab9c39374.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\90\903ff5a247c7a42ef9a49292f4a04e66
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\90\903ff5a247c7a42ef9a49292f4a04e66
+      projectPath: Library\metadata\90\903ff5a247c7a42ef9a49292f4a04e66
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\91\9159532a8a3d946aa9df74e771243e5b
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\91\9159532a8a3d946aa9df74e771243e5b
+      projectPath: Library\metadata\91\9159532a8a3d946aa9df74e771243e5b
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\93\93cb45d44c16f45a4bbd5099fe096c20
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\93\93cb45d44c16f45a4bbd5099fe096c20
+      projectPath: Library\metadata\93\93cb45d44c16f45a4bbd5099fe096c20
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\94\94f5d450d1bd94c97b1dc8109b633ac0
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\94\94f5d450d1bd94c97b1dc8109b633ac0
+      projectPath: Library\metadata\94\94f5d450d1bd94c97b1dc8109b633ac0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d
+      projectPath: Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d.info
+      projectPath: Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\95\956d27666e2450d4fb6296a1b6a09f27
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\95\956d27666e2450d4fb6296a1b6a09f27
+      projectPath: Library\metadata\95\956d27666e2450d4fb6296a1b6a09f27
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\95\956d27666e2450d4fb6296a1b6a09f27.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\95\956d27666e2450d4fb6296a1b6a09f27.info
+      projectPath: Library\metadata\95\956d27666e2450d4fb6296a1b6a09f27.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\95\95b832a777470485b891baa8026133ce
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\95\95b832a777470485b891baa8026133ce
+      projectPath: Library\metadata\95\95b832a777470485b891baa8026133ce
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\99\9961197a3979a4fa684159098ac5881f
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\99\9961197a3979a4fa684159098ac5881f
+      projectPath: Library\metadata\99\9961197a3979a4fa684159098ac5881f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\99\998e7801d843d29468b357afb447a8fb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\99\998e7801d843d29468b357afb447a8fb
+      projectPath: Library\metadata\99\998e7801d843d29468b357afb447a8fb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\9e\9e216f327e132794b8e02093522ae84c
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\9e\9e216f327e132794b8e02093522ae84c
+      projectPath: Library\metadata\9e\9e216f327e132794b8e02093522ae84c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\9f\9f9210011b71142d5966eec2db6cc696
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\9f\9f9210011b71142d5966eec2db6cc696
+      projectPath: Library\metadata\9f\9f9210011b71142d5966eec2db6cc696
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\a1\a1b403f35d6a042d680f153b25664cf1
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a1\a1b403f35d6a042d680f153b25664cf1
+      projectPath: Library\metadata\a1\a1b403f35d6a042d680f153b25664cf1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\a2\a229fefd8ee7448b0b700f6000ebdec3
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a2\a229fefd8ee7448b0b700f6000ebdec3
+      projectPath: Library\metadata\a2\a229fefd8ee7448b0b700f6000ebdec3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\a3\a3b352fc2ba734605a3df75466e600f0
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a3\a3b352fc2ba734605a3df75466e600f0
+      projectPath: Library\metadata\a3\a3b352fc2ba734605a3df75466e600f0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\a4\a4ab599ee1dbcea41b165ae5170d9f03
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a4\a4ab599ee1dbcea41b165ae5170d9f03
+      projectPath: Library\metadata\a4\a4ab599ee1dbcea41b165ae5170d9f03
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\a5\a546592901a23411d99a5fef0ada01e7
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a5\a546592901a23411d99a5fef0ada01e7
+      projectPath: Library\metadata\a5\a546592901a23411d99a5fef0ada01e7
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\a5\a5d8d09b9e5d2437aa022780a2ce8c83
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a5\a5d8d09b9e5d2437aa022780a2ce8c83
+      projectPath: Library\metadata\a5\a5d8d09b9e5d2437aa022780a2ce8c83
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\a6\a6a4dc79e16b24f91978bbf65972aebb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a6\a6a4dc79e16b24f91978bbf65972aebb
+      projectPath: Library\metadata\a6\a6a4dc79e16b24f91978bbf65972aebb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\a6\a6a69ccef6ec85741b33809d6a7b2457
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a6\a6a69ccef6ec85741b33809d6a7b2457
+      projectPath: Library\metadata\a6\a6a69ccef6ec85741b33809d6a7b2457
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a6\a6a69ccef6ec85741b33809d6a7b2457.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a6\a6a69ccef6ec85741b33809d6a7b2457.info
+      projectPath: Library\metadata\a6\a6a69ccef6ec85741b33809d6a7b2457.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a7\a77cd76073c7444179779ec6271ad5e1
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a7\a77cd76073c7444179779ec6271ad5e1
+      projectPath: Library\metadata\a7\a77cd76073c7444179779ec6271ad5e1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a7\a77cd76073c7444179779ec6271ad5e1.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a7\a77cd76073c7444179779ec6271ad5e1.info
+      projectPath: Library\metadata\a7\a77cd76073c7444179779ec6271ad5e1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\a8\a89c2f792b6ed4b3c8e3d82ed9b3c4cc
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a8\a89c2f792b6ed4b3c8e3d82ed9b3c4cc
+      projectPath: Library\metadata\a8\a89c2f792b6ed4b3c8e3d82ed9b3c4cc
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\aa\aa952cbcc0eb13d4ca558b6da550ff55
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\aa\aa952cbcc0eb13d4ca558b6da550ff55
+      projectPath: Library\metadata\aa\aa952cbcc0eb13d4ca558b6da550ff55
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\aa\aae92b851d41be049b91af630666e0bc
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\aa\aae92b851d41be049b91af630666e0bc
+      projectPath: Library\metadata\aa\aae92b851d41be049b91af630666e0bc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\aa\aae92b851d41be049b91af630666e0bc.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\aa\aae92b851d41be049b91af630666e0bc.info
+      projectPath: Library\metadata\aa\aae92b851d41be049b91af630666e0bc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ac\acad0e6b1721a4b30992f78c06434321
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ac\acad0e6b1721a4b30992f78c06434321
+      projectPath: Library\metadata\ac\acad0e6b1721a4b30992f78c06434321
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ad\adb9b18ac2466473a850d8acd17654a1
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ad\adb9b18ac2466473a850d8acd17654a1
+      projectPath: Library\metadata\ad\adb9b18ac2466473a850d8acd17654a1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ad\adde9bdea083943199c7959004756e60
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ad\adde9bdea083943199c7959004756e60
+      projectPath: Library\metadata\ad\adde9bdea083943199c7959004756e60
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ae\ae2d286fc7c3e427bbde238c0ebb970b
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ae\ae2d286fc7c3e427bbde238c0ebb970b
+      projectPath: Library\metadata\ae\ae2d286fc7c3e427bbde238c0ebb970b
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b0\b05767d6e8b854cd0987b344898cc15d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b0\b05767d6e8b854cd0987b344898cc15d
+      projectPath: Library\metadata\b0\b05767d6e8b854cd0987b344898cc15d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b0\b0dc366f6bd074945a86579cd29111b7
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b0\b0dc366f6bd074945a86579cd29111b7
+      projectPath: Library\metadata\b0\b0dc366f6bd074945a86579cd29111b7
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b1\b1156c073149742478887bb24456f32d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b1\b1156c073149742478887bb24456f32d
+      projectPath: Library\metadata\b1\b1156c073149742478887bb24456f32d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b1\b1374e4769ab841f0868774620e9340e
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b1\b1374e4769ab841f0868774620e9340e
+      projectPath: Library\metadata\b1\b1374e4769ab841f0868774620e9340e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b3\b317abbf384384356a25c21e04d7a07d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b3\b317abbf384384356a25c21e04d7a07d
+      projectPath: Library\metadata\b3\b317abbf384384356a25c21e04d7a07d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b5\b5cd7f7fcfc8a4c1fbc201ccc579556d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b5\b5cd7f7fcfc8a4c1fbc201ccc579556d
+      projectPath: Library\metadata\b5\b5cd7f7fcfc8a4c1fbc201ccc579556d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b6\b621d217eade547b4841c4471106b6e5
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b6\b621d217eade547b4841c4471106b6e5
+      projectPath: Library\metadata\b6\b621d217eade547b4841c4471106b6e5
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b6\b68b11cac1ab04f95985e32ea67b8435
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b6\b68b11cac1ab04f95985e32ea67b8435
+      projectPath: Library\metadata\b6\b68b11cac1ab04f95985e32ea67b8435
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b6\b6c5a94baab204e19b11089e79af0fa5
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b6\b6c5a94baab204e19b11089e79af0fa5
+      projectPath: Library\metadata\b6\b6c5a94baab204e19b11089e79af0fa5
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b6\b6d9412aff759420192d8dcf33f969bb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b6\b6d9412aff759420192d8dcf33f969bb
+      projectPath: Library\metadata\b6\b6d9412aff759420192d8dcf33f969bb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b6\b6ecee1e7b5ef4412ba89d59a49afd69
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b6\b6ecee1e7b5ef4412ba89d59a49afd69
+      projectPath: Library\metadata\b6\b6ecee1e7b5ef4412ba89d59a49afd69
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b7\b764ba158c511407fbc195fb36b34bc6
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b7\b764ba158c511407fbc195fb36b34bc6
+      projectPath: Library\metadata\b7\b764ba158c511407fbc195fb36b34bc6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b7\b7c28afb12456b7469919c6a64cee9c1
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b7\b7c28afb12456b7469919c6a64cee9c1
+      projectPath: Library\metadata\b7\b7c28afb12456b7469919c6a64cee9c1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b9\b9fcd2a047ec9c440a2bfeace305c425
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\b9\b9fcd2a047ec9c440a2bfeace305c425
+      projectPath: Library\metadata\b9\b9fcd2a047ec9c440a2bfeace305c425
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ba\ba1fdeca76274e843a3d78b1bc348126
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ba\ba1fdeca76274e843a3d78b1bc348126
+      projectPath: Library\metadata\ba\ba1fdeca76274e843a3d78b1bc348126
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ba\ba1fdeca76274e843a3d78b1bc348126.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ba\ba1fdeca76274e843a3d78b1bc348126.info
+      projectPath: Library\metadata\ba\ba1fdeca76274e843a3d78b1bc348126.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ba\bab6fa851cf5a1a4bba3cec5f191cb8e
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ba\bab6fa851cf5a1a4bba3cec5f191cb8e
+      projectPath: Library\metadata\ba\bab6fa851cf5a1a4bba3cec5f191cb8e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ba\bab6fa851cf5a1a4bba3cec5f191cb8e.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ba\bab6fa851cf5a1a4bba3cec5f191cb8e.info
+      projectPath: Library\metadata\ba\bab6fa851cf5a1a4bba3cec5f191cb8e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c1\c173d28b2a4224c52a4c8ea503f4e2b9
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c1\c173d28b2a4224c52a4c8ea503f4e2b9
+      projectPath: Library\metadata\c1\c173d28b2a4224c52a4c8ea503f4e2b9
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c2\c259eeb26e96b4f1d8eeb8871bcfdac5
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c2\c259eeb26e96b4f1d8eeb8871bcfdac5
+      projectPath: Library\metadata\c2\c259eeb26e96b4f1d8eeb8871bcfdac5
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c2\c2bcf79fd38b2441fa17fde42cfce34d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c2\c2bcf79fd38b2441fa17fde42cfce34d
+      projectPath: Library\metadata\c2\c2bcf79fd38b2441fa17fde42cfce34d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c3\c36f3afb2cb4ef840bf3183652900afe
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c3\c36f3afb2cb4ef840bf3183652900afe
+      projectPath: Library\metadata\c3\c36f3afb2cb4ef840bf3183652900afe
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c3\c39c9ce1c4cb949db8dc00fc0750f708
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c3\c39c9ce1c4cb949db8dc00fc0750f708
+      projectPath: Library\metadata\c3\c39c9ce1c4cb949db8dc00fc0750f708
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c4\c42ca6bb02b364893b127c681c158442
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c4\c42ca6bb02b364893b127c681c158442
+      projectPath: Library\metadata\c4\c42ca6bb02b364893b127c681c158442
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c4\c485d86d5e69340f09123a723b06bc87
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c4\c485d86d5e69340f09123a723b06bc87
+      projectPath: Library\metadata\c4\c485d86d5e69340f09123a723b06bc87
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c4\c4d57836d4e064f449f3e2f03330e9ce
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c4\c4d57836d4e064f449f3e2f03330e9ce
+      projectPath: Library\metadata\c4\c4d57836d4e064f449f3e2f03330e9ce
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c7\c72accf6cbda24d54b10c062b49302db
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c7\c72accf6cbda24d54b10c062b49302db
+      projectPath: Library\metadata\c7\c72accf6cbda24d54b10c062b49302db
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c8\c8a1350d8c86b45c5b567988d0897a27
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c8\c8a1350d8c86b45c5b567988d0897a27
+      projectPath: Library\metadata\c8\c8a1350d8c86b45c5b567988d0897a27
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c8\c8c577abb094c094b81694b3c9c08153
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\c8\c8c577abb094c094b81694b3c9c08153
+      projectPath: Library\metadata\c8\c8c577abb094c094b81694b3c9c08153
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ca\ca0157c63fb794df89c6735fc602eca2
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ca\ca0157c63fb794df89c6735fc602eca2
+      projectPath: Library\metadata\ca\ca0157c63fb794df89c6735fc602eca2
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ca\ca71259be6348485abbe393157796cb8
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ca\ca71259be6348485abbe393157796cb8
+      projectPath: Library\metadata\ca\ca71259be6348485abbe393157796cb8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\cb\cb01f40fa958548a5b1f92a685e6d46d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cb\cb01f40fa958548a5b1f92a685e6d46d
+      projectPath: Library\metadata\cb\cb01f40fa958548a5b1f92a685e6d46d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\cb\cb5f458261eac491b9379eb30aec0947
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cb\cb5f458261eac491b9379eb30aec0947
+      projectPath: Library\metadata\cb\cb5f458261eac491b9379eb30aec0947
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c
+      projectPath: Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c.info
+      projectPath: Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\cc\cc6e38fe705a640ba9cc80555465b13e
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cc\cc6e38fe705a640ba9cc80555465b13e
+      projectPath: Library\metadata\cc\cc6e38fe705a640ba9cc80555465b13e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\cc\ccf6781681c206443940c80815bc18f3
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cc\ccf6781681c206443940c80815bc18f3
+      projectPath: Library\metadata\cc\ccf6781681c206443940c80815bc18f3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ce\ce0ec89649a704bd991b4db7e412794f
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ce\ce0ec89649a704bd991b4db7e412794f
+      projectPath: Library\metadata\ce\ce0ec89649a704bd991b4db7e412794f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ce\cee9bf8d7a0fe4c348dc7216756fc588
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ce\cee9bf8d7a0fe4c348dc7216756fc588
+      projectPath: Library\metadata\ce\cee9bf8d7a0fe4c348dc7216756fc588
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d1\d185990d00365a24a9b318b77d963d70
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d1\d185990d00365a24a9b318b77d963d70
+      projectPath: Library\metadata\d1\d185990d00365a24a9b318b77d963d70
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d1\d1b8f07442700094898145567ef1f203
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d1\d1b8f07442700094898145567ef1f203
+      projectPath: Library\metadata\d1\d1b8f07442700094898145567ef1f203
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d2\d2170503dc57f492481ebe9334c68fcc
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d2\d2170503dc57f492481ebe9334c68fcc
+      projectPath: Library\metadata\d2\d2170503dc57f492481ebe9334c68fcc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d2\d2170503dc57f492481ebe9334c68fcc.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d2\d2170503dc57f492481ebe9334c68fcc.info
+      projectPath: Library\metadata\d2\d2170503dc57f492481ebe9334c68fcc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d2\d2e5fe232b3b94de2a12eb364ebc371e
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d2\d2e5fe232b3b94de2a12eb364ebc371e
+      projectPath: Library\metadata\d2\d2e5fe232b3b94de2a12eb364ebc371e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d3\d38f0664abc0c446a8fa0886ec2bcd12
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d3\d38f0664abc0c446a8fa0886ec2bcd12
+      projectPath: Library\metadata\d3\d38f0664abc0c446a8fa0886ec2bcd12
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d5\d564aec5d00024e0cba425635c40069a
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d5\d564aec5d00024e0cba425635c40069a
+      projectPath: Library\metadata\d5\d564aec5d00024e0cba425635c40069a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d5\d58d208ecab3b4c68864333c61ffac7b
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d5\d58d208ecab3b4c68864333c61ffac7b
+      projectPath: Library\metadata\d5\d58d208ecab3b4c68864333c61ffac7b
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d6\d6bc01eb564f142a1ada6ced5215636a
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d6\d6bc01eb564f142a1ada6ced5215636a
+      projectPath: Library\metadata\d6\d6bc01eb564f142a1ada6ced5215636a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d6\d6dc4d56dabb6444a8fda878f2e8acc1
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d6\d6dc4d56dabb6444a8fda878f2e8acc1
+      projectPath: Library\metadata\d6\d6dc4d56dabb6444a8fda878f2e8acc1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d8\d8b9c789363a44b1e87727b1c4d085f6
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\d8\d8b9c789363a44b1e87727b1c4d085f6
+      projectPath: Library\metadata\d8\d8b9c789363a44b1e87727b1c4d085f6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\da\da538b2d940864934bfd4a6f2e6d0602
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\da\da538b2d940864934bfd4a6f2e6d0602
+      projectPath: Library\metadata\da\da538b2d940864934bfd4a6f2e6d0602
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\dc\dc1be33c2340b49b18cb74357e0bbfcd
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\dc\dc1be33c2340b49b18cb74357e0bbfcd
+      projectPath: Library\metadata\dc\dc1be33c2340b49b18cb74357e0bbfcd
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\dd\dd9148021696d3240bf6517aba406f29
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\dd\dd9148021696d3240bf6517aba406f29
+      projectPath: Library\metadata\dd\dd9148021696d3240bf6517aba406f29
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\dd\ddd25f1308577456cbaa207901961126
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\dd\ddd25f1308577456cbaa207901961126
+      projectPath: Library\metadata\dd\ddd25f1308577456cbaa207901961126
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\de\de961e46abe24453a81bf1c8576885b3
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\de\de961e46abe24453a81bf1c8576885b3
+      projectPath: Library\metadata\de\de961e46abe24453a81bf1c8576885b3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\e0\e0a32f2191dec4e1b8e05acab6002be6
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\e0\e0a32f2191dec4e1b8e05acab6002be6
+      projectPath: Library\metadata\e0\e0a32f2191dec4e1b8e05acab6002be6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\e3\e39841bba8ebf4707aff759a1690a400
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\e3\e39841bba8ebf4707aff759a1690a400
+      projectPath: Library\metadata\e3\e39841bba8ebf4707aff759a1690a400
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\e4\e4a605c315b944e7f84ed1dbe9ff6921
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\e4\e4a605c315b944e7f84ed1dbe9ff6921
+      projectPath: Library\metadata\e4\e4a605c315b944e7f84ed1dbe9ff6921
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\e4\e4bfeabebc5114952a57d908ff706b7e
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\e4\e4bfeabebc5114952a57d908ff706b7e
+      projectPath: Library\metadata\e4\e4bfeabebc5114952a57d908ff706b7e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e4\e4bfeabebc5114952a57d908ff706b7e.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\e4\e4bfeabebc5114952a57d908ff706b7e.info
+      projectPath: Library\metadata\e4\e4bfeabebc5114952a57d908ff706b7e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e5\e5000c7de28ac497c8564ecb8d1f005d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\e5\e5000c7de28ac497c8564ecb8d1f005d
+      projectPath: Library\metadata\e5\e5000c7de28ac497c8564ecb8d1f005d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\e7\e7441953e05443d4fa517d1ce7382b0c
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\e7\e7441953e05443d4fa517d1ce7382b0c
+      projectPath: Library\metadata\e7\e7441953e05443d4fa517d1ce7382b0c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\e7\e7dcc90c2e60c4011896c7f21fc1f557
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\e7\e7dcc90c2e60c4011896c7f21fc1f557
+      projectPath: Library\metadata\e7\e7dcc90c2e60c4011896c7f21fc1f557
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\eb\eb5dd43baba2d4dc1bab789615567e3d
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\eb\eb5dd43baba2d4dc1bab789615567e3d
+      projectPath: Library\metadata\eb\eb5dd43baba2d4dc1bab789615567e3d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ec\ecd9463bbd7994be09b972947a085067
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ec\ecd9463bbd7994be09b972947a085067
+      projectPath: Library\metadata\ec\ecd9463bbd7994be09b972947a085067
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ed\edb327471a85e400395cd5c49a96ca66
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ed\edb327471a85e400395cd5c49a96ca66
+      projectPath: Library\metadata\ed\edb327471a85e400395cd5c49a96ca66
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ef\ef63f87a26b474e1c88f77dfc4f3aa3a
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ef\ef63f87a26b474e1c88f77dfc4f3aa3a
+      projectPath: Library\metadata\ef\ef63f87a26b474e1c88f77dfc4f3aa3a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ef\efe7e44b35e61314983888468dcb5686
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ef\efe7e44b35e61314983888468dcb5686
+      projectPath: Library\metadata\ef\efe7e44b35e61314983888468dcb5686
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f2\f209cbd06a2004579bbbe38a087c1362
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\f2\f209cbd06a2004579bbbe38a087c1362
+      projectPath: Library\metadata\f2\f209cbd06a2004579bbbe38a087c1362
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f2\f2a868822ddbb4ca6952f78be4bb4698
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\f2\f2a868822ddbb4ca6952f78be4bb4698
+      projectPath: Library\metadata\f2\f2a868822ddbb4ca6952f78be4bb4698
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f3\f3bf9c1bacbb04f72bb43e892c3a98a9
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\f3\f3bf9c1bacbb04f72bb43e892c3a98a9
+      projectPath: Library\metadata\f3\f3bf9c1bacbb04f72bb43e892c3a98a9
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f4\f4ee199cdc1304b2090f019e4f488674
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\f4\f4ee199cdc1304b2090f019e4f488674
+      projectPath: Library\metadata\f4\f4ee199cdc1304b2090f019e4f488674
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f6\f660a98bda3a2cd4b86ffddd7e8d869f
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\f6\f660a98bda3a2cd4b86ffddd7e8d869f
+      projectPath: Library\metadata\f6\f660a98bda3a2cd4b86ffddd7e8d869f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f7\f735d317ca9afb6468c5c5ca06d9e39a
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\f7\f735d317ca9afb6468c5c5ca06d9e39a
+      projectPath: Library\metadata\f7\f735d317ca9afb6468c5c5ca06d9e39a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f7\f735d317ca9afb6468c5c5ca06d9e39a.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\f7\f735d317ca9afb6468c5c5ca06d9e39a.info
+      projectPath: Library\metadata\f7\f735d317ca9afb6468c5c5ca06d9e39a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f7\f73feeef531a54f2a8cf5b05a8c06e58
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\f7\f73feeef531a54f2a8cf5b05a8c06e58
+      projectPath: Library\metadata\f7\f73feeef531a54f2a8cf5b05a8c06e58
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f7\f789f1d07e73f42b398b211da58efc42
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\f7\f789f1d07e73f42b398b211da58efc42
+      projectPath: Library\metadata\f7\f789f1d07e73f42b398b211da58efc42
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\fb\fbc799bc7ede6a940b24eff19a72979c
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\fb\fbc799bc7ede6a940b24eff19a72979c
+      projectPath: Library\metadata\fb\fbc799bc7ede6a940b24eff19a72979c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\fb\fbdf93500b5014ec9872a59cb683089a
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\fb\fbdf93500b5014ec9872a59cb683089a
+      projectPath: Library\metadata\fb\fbdf93500b5014ec9872a59cb683089a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\fc\fc32dfa1c4e55904a8b2202ce103b611
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\fc\fc32dfa1c4e55904a8b2202ce103b611
+      projectPath: Library\metadata\fc\fc32dfa1c4e55904a8b2202ce103b611
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\fc\fc32dfa1c4e55904a8b2202ce103b611.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\fc\fc32dfa1c4e55904a8b2202ce103b611.info
+      projectPath: Library\metadata\fc\fc32dfa1c4e55904a8b2202ce103b611.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\fc\fcd4baceb58cc40c98e500572bede6a6
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\fc\fcd4baceb58cc40c98e500572bede6a6
+      projectPath: Library\metadata\fc\fcd4baceb58cc40c98e500572bede6a6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\fd\fdbbe3b6d356a42e0a601b5533e1ccab
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\fd\fdbbe3b6d356a42e0a601b5533e1ccab
+      projectPath: Library\metadata\fd\fdbbe3b6d356a42e0a601b5533e1ccab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\fd\fdbce15836bf64163856f689fdd67b2c
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\fd\fdbce15836bf64163856f689fdd67b2c
+      projectPath: Library\metadata\fd\fdbce15836bf64163856f689fdd67b2c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\fe\fe98bb862d52fdd47a0641556e3140f8
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\fe\fe98bb862d52fdd47a0641556e3140f8
+      projectPath: Library\metadata\fe\fe98bb862d52fdd47a0641556e3140f8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ff\ff116a42749d24b4090791509db76fad
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ff\ff116a42749d24b4090791509db76fad
+      projectPath: Library\metadata\ff\ff116a42749d24b4090791509db76fad
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ff\ff12693eea0a446d0a2183f2ffe9c711
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ff\ff12693eea0a446d0a2183f2ffe9c711
+      projectPath: Library\metadata\ff\ff12693eea0a446d0a2183f2ffe9c711
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ff\fff2ffa71f4754593a63b4ebb799955e
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\ff\fff2ffa71f4754593a63b4ebb799955e
+      projectPath: Library\metadata\ff\fff2ffa71f4754593a63b4ebb799955e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TeamKernelGH.Editor.csproj
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\TeamKernelGH.Editor.csproj
+      projectPath: TeamKernelGH.Editor.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TeamKernelGH.Plugins.csproj
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\TeamKernelGH.Plugins.csproj
+      projectPath: TeamKernelGH.Plugins.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TeamKernelGH.csproj
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\TeamKernelGH.csproj
+      projectPath: TeamKernelGH.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TeamKernelGH.sln
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\TeamKernelGH.sln
+      projectPath: TeamKernelGH.sln
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Unity.PackageManagerUI.Editor.csproj
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Unity.PackageManagerUI.Editor.csproj
+      projectPath: Unity.PackageManagerUI.Editor.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Unity.TextMeshPro.Editor.csproj
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Unity.TextMeshPro.Editor.csproj
+      projectPath: Unity.TextMeshPro.Editor.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Unity.TextMeshPro.csproj
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Unity.TextMeshPro.csproj
+      projectPath: Unity.TextMeshPro.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: UnityEditor.StandardEvents.csproj
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\UnityEditor.StandardEvents.csproj
+      projectPath: UnityEditor.StandardEvents.csproj
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 65e9b4cf788e774aaf46953cd0daf42909021b14
     mergeA: 
     mergeB: 

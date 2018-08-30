@@ -12,6 +12,361 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-29T23:34:27.051-05:00
-  initializedAtString: 2018-08-29T23:14:58.402-05:00
-  entries: []
+  lastUpdatedAtString: 2018-08-30T07:57:33.546-05:00
+  initializedAtString: 2018-08-29T23:42:10.744-05:00
+  entries:
+  - path: Assets\myPrefabs\Test Tube.prefab
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\myPrefabs\Test Tube.prefab
+    projectPath: Assets\myPrefabs\Test Tube.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\myPrefabs\Test Tube.prefab.meta
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\myPrefabs\Test Tube.prefab.meta
+    projectPath: Assets\myPrefabs\Test Tube.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\TestTube.cs
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\TestTube.cs
+    projectPath: Assets\TestTube.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\TestTube.cs.meta
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\TestTube.cs.meta
+    projectPath: Assets\TestTube.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0
+    projectPath: Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0.info
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0.info
+    projectPath: Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b
+    projectPath: Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b.info
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b.info
+    projectPath: Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TeamKernelGH.csproj
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\TeamKernelGH.csproj
+    projectPath: TeamKernelGH.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-060f2e5e658305c478ea40e3304d9db3
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-060f2e5e658305c478ea40e3304d9db3
+    projectPath: Temp\UnityTempFile-060f2e5e658305c478ea40e3304d9db3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-09d49e5ae9668df419e707a34d4013f4
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-09d49e5ae9668df419e707a34d4013f4
+    projectPath: Temp\UnityTempFile-09d49e5ae9668df419e707a34d4013f4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-145960ca0385cef4cafce92d1932f843
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-145960ca0385cef4cafce92d1932f843
+    projectPath: Temp\UnityTempFile-145960ca0385cef4cafce92d1932f843
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1c75411e983eee4428e3391f6600d791
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-1c75411e983eee4428e3391f6600d791
+    projectPath: Temp\UnityTempFile-1c75411e983eee4428e3391f6600d791
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1d2371f17439c7647aa5892c73cbb609
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-1d2371f17439c7647aa5892c73cbb609
+    projectPath: Temp\UnityTempFile-1d2371f17439c7647aa5892c73cbb609
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1e608f8604eec714fa4b8ef514be9128
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-1e608f8604eec714fa4b8ef514be9128
+    projectPath: Temp\UnityTempFile-1e608f8604eec714fa4b8ef514be9128
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-29029aa950a12024b82245af894a2e4e
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-29029aa950a12024b82245af894a2e4e
+    projectPath: Temp\UnityTempFile-29029aa950a12024b82245af894a2e4e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-37f846abdc63546499bbbf82c7fe6ece
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-37f846abdc63546499bbbf82c7fe6ece
+    projectPath: Temp\UnityTempFile-37f846abdc63546499bbbf82c7fe6ece
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3ca707e6b41f9324ba080b9f8cc6f7b8
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-3ca707e6b41f9324ba080b9f8cc6f7b8
+    projectPath: Temp\UnityTempFile-3ca707e6b41f9324ba080b9f8cc6f7b8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4719917fc268a1e48b811f0c0d4100a7
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-4719917fc268a1e48b811f0c0d4100a7
+    projectPath: Temp\UnityTempFile-4719917fc268a1e48b811f0c0d4100a7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-497cabcb964654944913d378ed0360a9
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-497cabcb964654944913d378ed0360a9
+    projectPath: Temp\UnityTempFile-497cabcb964654944913d378ed0360a9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4a304ce82a0a50542b2d6f6062164c3c
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-4a304ce82a0a50542b2d6f6062164c3c
+    projectPath: Temp\UnityTempFile-4a304ce82a0a50542b2d6f6062164c3c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-600ba421f23b4f044bb6dfdfd6a1e705
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-600ba421f23b4f044bb6dfdfd6a1e705
+    projectPath: Temp\UnityTempFile-600ba421f23b4f044bb6dfdfd6a1e705
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-60cd59df77b93af4bb09d717a90cf719
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-60cd59df77b93af4bb09d717a90cf719
+    projectPath: Temp\UnityTempFile-60cd59df77b93af4bb09d717a90cf719
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-617b4064d387c914290c9ce77afb7371
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-617b4064d387c914290c9ce77afb7371
+    projectPath: Temp\UnityTempFile-617b4064d387c914290c9ce77afb7371
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-674cc4e1110c20346ad4065f7121d5a9
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-674cc4e1110c20346ad4065f7121d5a9
+    projectPath: Temp\UnityTempFile-674cc4e1110c20346ad4065f7121d5a9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7ab05fc63067f9147b3052a0f7892105
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-7ab05fc63067f9147b3052a0f7892105
+    projectPath: Temp\UnityTempFile-7ab05fc63067f9147b3052a0f7892105
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7b59a1a67f50bc647ab9586d9719039b
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-7b59a1a67f50bc647ab9586d9719039b
+    projectPath: Temp\UnityTempFile-7b59a1a67f50bc647ab9586d9719039b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-86c5bfe93bf5c4a489347cee92957287
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-86c5bfe93bf5c4a489347cee92957287
+    projectPath: Temp\UnityTempFile-86c5bfe93bf5c4a489347cee92957287
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9089fbd2c5c346f4889f5ab88b584541
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-9089fbd2c5c346f4889f5ab88b584541
+    projectPath: Temp\UnityTempFile-9089fbd2c5c346f4889f5ab88b584541
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9ac7b9ca036b1a145bf3aea41f9e55ce
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-9ac7b9ca036b1a145bf3aea41f9e55ce
+    projectPath: Temp\UnityTempFile-9ac7b9ca036b1a145bf3aea41f9e55ce
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9eda5c2312dd2ed4ea8896e7184953bf
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-9eda5c2312dd2ed4ea8896e7184953bf
+    projectPath: Temp\UnityTempFile-9eda5c2312dd2ed4ea8896e7184953bf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a2c9d390c950f284bac377cd1fd58015
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-a2c9d390c950f284bac377cd1fd58015
+    projectPath: Temp\UnityTempFile-a2c9d390c950f284bac377cd1fd58015
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a85835a82cb72a047a73c8efedad501f
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-a85835a82cb72a047a73c8efedad501f
+    projectPath: Temp\UnityTempFile-a85835a82cb72a047a73c8efedad501f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a9d8d39e50723db41bba67adb259073d
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-a9d8d39e50723db41bba67adb259073d
+    projectPath: Temp\UnityTempFile-a9d8d39e50723db41bba67adb259073d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b32a9c5c49aa4c248bf4235018238963
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-b32a9c5c49aa4c248bf4235018238963
+    projectPath: Temp\UnityTempFile-b32a9c5c49aa4c248bf4235018238963
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ca21c7a56f7567f4cbb60cf52599a446
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-ca21c7a56f7567f4cbb60cf52599a446
+    projectPath: Temp\UnityTempFile-ca21c7a56f7567f4cbb60cf52599a446
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ca65aa4108d0e1f409d7729f246bf4d4
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-ca65aa4108d0e1f409d7729f246bf4d4
+    projectPath: Temp\UnityTempFile-ca65aa4108d0e1f409d7729f246bf4d4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cf067c78c66033c4b884a35c036465d0
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-cf067c78c66033c4b884a35c036465d0
+    projectPath: Temp\UnityTempFile-cf067c78c66033c4b884a35c036465d0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cf7a33371eab9634e906d8fc53050974
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-cf7a33371eab9634e906d8fc53050974
+    projectPath: Temp\UnityTempFile-cf7a33371eab9634e906d8fc53050974
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d9e902c87d2f6a34a9b609c1f999b028
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-d9e902c87d2f6a34a9b609c1f999b028
+    projectPath: Temp\UnityTempFile-d9e902c87d2f6a34a9b609c1f999b028
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ec1bbb54b7972964bb358984667b7891
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-ec1bbb54b7972964bb358984667b7891
+    projectPath: Temp\UnityTempFile-ec1bbb54b7972964bb358984667b7891
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-efb8b74eaa5798341b79006b1db5d4e4
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-efb8b74eaa5798341b79006b1db5d4e4
+    projectPath: Temp\UnityTempFile-efb8b74eaa5798341b79006b1db5d4e4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-fe4c9bde8a85e3c4c91e83508f377f57
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-fe4c9bde8a85e3c4c91e83508f377f57
+    projectPath: Temp\UnityTempFile-fe4c9bde8a85e3c4c91e83508f377f57
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityVS\Visual Studio 2017 Tools.unitypackage
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityVS\Visual Studio
+      2017 Tools.unitypackage
+    projectPath: Temp\UnityVS\Visual Studio 2017 Tools.unitypackage
+    originalPath: 
+    status: 1
+    staged: 0
