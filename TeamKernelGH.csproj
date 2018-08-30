@@ -450,6 +450,7 @@
     <Compile Include="Assets\Scripts\RatBehavior.cs" />
     <Compile Include="Assets\Scripts\WaypointMovement.cs" />
     <Compile Include="Assets\TestTube.cs" />
+    <Compile Include="Assets\Trash.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\HerdSim\HerdSim Readme.txt" />

@@ -14,6 +14,4 @@ public class TestTube : MonoBehaviour {
         this.transform.eulerAngles = rotation;
         this.transform.localPosition = position;
     }
-    
-
 }

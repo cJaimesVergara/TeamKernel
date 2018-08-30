@@ -12,9 +12,155 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-08-30T07:56:03.575-05:00
-  initializedAtString: 2018-08-29T23:42:11.360-05:00
+  lastUpdatedAtString: 2018-08-30T18:16:57.151-05:00
+  initializedAtString: 2018-08-30T16:56:08.259-05:00
   log:
+  - commitID: 1ff757137fc232435c4780640ab19bf472d06c86
+    mergeA: 
+    mergeB: 
+    authorName: DESKTOP-CLGEOEL\CarlosJaimes
+    authorEmail: cjaimes_vergara@hotmail.com
+    commitEmail: cjaimes_vergara@hotmail.com
+    commitName: DESKTOP-CLGEOEL\CarlosJaimes
+    summary: Test Tube Prefab fixed. Test Tube behavior added.
+    description: Test Tube Prefab fixed. Test Tube behavior added.
+    timeString: 2018-08-30T07:58:43.000-05:00
+    commitTimeString: 2018-08-30T07:58:43.000-05:00
+    changes:
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\TestTube.cs
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\TestTube.cs
+      projectPath: Assets\TestTube.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TestTube.cs.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\TestTube.cs.meta
+      projectPath: Assets\TestTube.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\myPrefabs\Test Tube.prefab
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\myPrefabs\Test
+        Tube.prefab
+      projectPath: Assets\myPrefabs\Test Tube.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\myPrefabs\Test Tube.prefab.meta
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\myPrefabs\Test
+        Tube.prefab.meta
+      projectPath: Assets\myPrefabs\Test Tube.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0
+      projectPath: Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0.info
+      projectPath: Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b
+      projectPath: Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b.info
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b.info
+      projectPath: Library\metadata\dc\dcdccfd1ade0e9f46b5a28e959fb527b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TeamKernelGH.csproj
+      fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\TeamKernelGH.csproj
+      projectPath: TeamKernelGH.csproj
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: b64574ab02ecc6c8c9fcbbdf2e41a0701694d60e
     mergeA: 
     mergeB: 
