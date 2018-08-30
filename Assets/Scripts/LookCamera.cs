@@ -10,6 +10,20 @@ public class LookCamera: MonoBehaviour
     public bool reverseFace = false;
     public Axis axis = Axis.up;
     public string whatToDo;
+    private bool mostrar = true;
+
+    public bool Mostrar
+    {
+        get
+        {
+            return mostrar;
+        }
+
+        set
+        {
+            mostrar = value;
+        }
+    }
 
     public Vector3 GetAxis(Axis refAxis)
     {
@@ -43,11 +57,17 @@ public class LookCamera: MonoBehaviour
     }
 
     public void ShowMessage() {
-        this.gameObject.active = true;
-        this.GetComponentInChildren<Text>().text = whatToDo;
+        if (mostrar)
+        {
+            this.gameObject.SetActive(true);
+            this.GetComponentInChildren<Text>().text = whatToDo;
+        }
+        else {
+            this.gameObject.SetActive(false);
+        }
     }
 
     public void HideMessage() {
-        this.gameObject.active = false;
+        this.gameObject.SetActive(false);
     }
 }
