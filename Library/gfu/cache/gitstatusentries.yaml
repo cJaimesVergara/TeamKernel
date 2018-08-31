@@ -12,52 +12,98 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-30T18:17:34.668-05:00
-  initializedAtString: 2018-08-30T16:56:06.195-05:00
+  lastUpdatedAtString: 2018-08-31T00:12:08.072-05:00
+  initializedAtString: 2018-08-30T23:42:51.802-05:00
   entries:
-  - path: .vs\TeamKernelGH\v15\.suo
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\.vs\TeamKernelGH\v15\.suo
-    projectPath: .vs\TeamKernelGH\v15\.suo
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\myPrefabs\Ball of trash.prefab
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\myPrefabs\Ball of
-      trash.prefab
-    projectPath: Assets\myPrefabs\Ball of trash.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\myPrefabs\Ball of trash.prefab.meta
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\myPrefabs\Ball of
-      trash.prefab.meta
-    projectPath: Assets\myPrefabs\Ball of trash.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Assets\Scenes\SampleScene.unity
     fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\TestTube.cs
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\TestTube.cs
-    projectPath: Assets\TestTube.cs
+  - path: Assets\Scenes\SampleScene\LightingData.asset
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\LightingData.asset
+    projectPath: Assets\Scenes\SampleScene\LightingData.asset
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: Assets\Trash.cs
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Trash.cs
-    projectPath: Assets\Trash.cs
+  - path: Assets\Scenes\SampleScene\LightingData.asset.meta
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\LightingData.asset.meta
+    projectPath: Assets\Scenes\SampleScene\LightingData.asset.meta
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
-  - path: Assets\Trash.cs.meta
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Trash.cs.meta
-    projectPath: Assets\Trash.cs.meta
+  - path: Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png
+    projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png
     originalPath: 
-    status: 1
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png.meta
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png.meta
+    projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_dir.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr
+    projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr.meta
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr.meta
+    projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_light.exr.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png
+    projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png.meta
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png.meta
+    projectPath: Assets\Scenes\SampleScene\Lightmap-0_comp_shadowmask.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\ReflectionProbe-0.exr
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-0.exr
+    projectPath: Assets\Scenes\SampleScene\ReflectionProbe-0.exr
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\ReflectionProbe-0.exr.meta
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-0.exr.meta
+    projectPath: Assets\Scenes\SampleScene\ReflectionProbe-0.exr.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\ReflectionProbe-1.exr
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-1.exr
+    projectPath: Assets\Scenes\SampleScene\ReflectionProbe-1.exr
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\ReflectionProbe-1.exr.meta
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-1.exr.meta
+    projectPath: Assets\Scenes\SampleScene\ReflectionProbe-1.exr.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\ReflectionProbe-2.exr
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-2.exr
+    projectPath: Assets\Scenes\SampleScene\ReflectionProbe-2.exr
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\SampleScene\ReflectionProbe-2.exr.meta
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Assets\Scenes\SampleScene\ReflectionProbe-2.exr.meta
+    projectPath: Assets\Scenes\SampleScene\ReflectionProbe-2.exr.meta
+    originalPath: 
+    status: 5
     staged: 0
   - path: Library\assetDatabase3
     fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\assetDatabase3
@@ -76,12 +122,6 @@ MonoBehaviour:
     projectPath: Library\EditorInstance.json
     originalPath: 
     status: 1
-    staged: 0
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
     staged: 0
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\gfu\cache\gitlocks.yaml
@@ -113,63 +153,183 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
+  - path: Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1
+    projectPath: Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: Library\metadata\1b\1bc101968b9bad14d809499069a0cb4d
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1b\1bc101968b9bad14d809499069a0cb4d
-    projectPath: Library\metadata\1b\1bc101968b9bad14d809499069a0cb4d
+  - path: Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1.info
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1.info
+    projectPath: Library\metadata\05\055fd17add8de1e4cb3e6a8b1f67b2c1.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134
+    projectPath: Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134.info
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134.info
+    projectPath: Library\metadata\42\4202ba4b7dd4bf6459d45808d1a6d134.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\47\474fa42c938792b4eb88ca1215752eec
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\47\474fa42c938792b4eb88ca1215752eec
+    projectPath: Library\metadata\47\474fa42c938792b4eb88ca1215752eec
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\47\474fa42c938792b4eb88ca1215752eec.info
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\47\474fa42c938792b4eb88ca1215752eec.info
+    projectPath: Library\metadata\47\474fa42c938792b4eb88ca1215752eec.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77
+    projectPath: Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77.info
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77.info
+    projectPath: Library\metadata\57\572baf28f4b24e6469f40dcbb8435c77.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d
+    projectPath: Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d.info
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d.info
+    projectPath: Library\metadata\94\94fb379cecfdfef4aba445dfd025c84d.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\aa\aae92b851d41be049b91af630666e0bc
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\aa\aae92b851d41be049b91af630666e0bc
+    projectPath: Library\metadata\aa\aae92b851d41be049b91af630666e0bc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\aa\aae92b851d41be049b91af630666e0bc.info
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\aa\aae92b851d41be049b91af630666e0bc.info
+    projectPath: Library\metadata\aa\aae92b851d41be049b91af630666e0bc.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c
+    projectPath: Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c.info
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c.info
+    projectPath: Library\metadata\cb\cb62b97254eb1a540884501622ddcc0c.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\ShaderCache\0\09c8fef2c3cdcc8d9d1fa1dad6862c50.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\0\09c8fef2c3cdcc8d9d1fa1dad6862c50.bin
+    projectPath: Library\ShaderCache\0\09c8fef2c3cdcc8d9d1fa1dad6862c50.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\1b\1bc101968b9bad14d809499069a0cb4d.info
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\1b\1bc101968b9bad14d809499069a0cb4d.info
-    projectPath: Library\metadata\1b\1bc101968b9bad14d809499069a0cb4d.info
+  - path: Library\ShaderCache\2\23485e5ac8038180d0c72d2435c5296a.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\2\23485e5ac8038180d0c72d2435c5296a.bin
+    projectPath: Library\ShaderCache\2\23485e5ac8038180d0c72d2435c5296a.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\a4\a48af9b42e4c94d4d8eebd06d2dc1d31
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a4\a48af9b42e4c94d4d8eebd06d2dc1d31
-    projectPath: Library\metadata\a4\a48af9b42e4c94d4d8eebd06d2dc1d31
+  - path: Library\ShaderCache\3\31221367cb140560c6958e6474d89ee9.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\3\31221367cb140560c6958e6474d89ee9.bin
+    projectPath: Library\ShaderCache\3\31221367cb140560c6958e6474d89ee9.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\a4\a48af9b42e4c94d4d8eebd06d2dc1d31.info
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\a4\a48af9b42e4c94d4d8eebd06d2dc1d31.info
-    projectPath: Library\metadata\a4\a48af9b42e4c94d4d8eebd06d2dc1d31.info
+  - path: Library\ShaderCache\7\7a915d9c46f4a2e474be370a73756ef6.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\7\7a915d9c46f4a2e474be370a73756ef6.bin
+    projectPath: Library\ShaderCache\7\7a915d9c46f4a2e474be370a73756ef6.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0
-    projectPath: Library\metadata\cd\cdc943848b3b4fe46b7a49438f4b98b0
+  - path: Library\ShaderCache\7\7b8bc64af7b1b71f5b69e4bf0176dfeb.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\7\7b8bc64af7b1b71f5b69e4bf0176dfeb.bin
+    projectPath: Library\ShaderCache\7\7b8bc64af7b1b71f5b69e4bf0176dfeb.bin
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+  - path: Library\ShaderCache\9\917cc24ad4f5edfbdb34259b31ca3377.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\9\917cc24ad4f5edfbdb34259b31ca3377.bin
+    projectPath: Library\ShaderCache\9\917cc24ad4f5edfbdb34259b31ca3377.bin
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+  - path: Library\ShaderCache\a\a2c524e43d913d4fc42572860d15971a.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\a\a2c524e43d913d4fc42572860d15971a.bin
+    projectPath: Library\ShaderCache\a\a2c524e43d913d4fc42572860d15971a.bin
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\ae777b9eaeabcd192b1f48e48b2773c8.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\a\ae777b9eaeabcd192b1f48e48b2773c8.bin
+    projectPath: Library\ShaderCache\a\ae777b9eaeabcd192b1f48e48b2773c8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b64309493827cc10e43e21b49e37ab47.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\b\b64309493827cc10e43e21b49e37ab47.bin
+    projectPath: Library\ShaderCache\b\b64309493827cc10e43e21b49e37ab47.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b7669edc88a0ef3ff9b66ea90fc976bc.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\b\b7669edc88a0ef3ff9b66ea90fc976bc.bin
+    projectPath: Library\ShaderCache\b\b7669edc88a0ef3ff9b66ea90fc976bc.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c10a76909668417c8bd4a4f7e29fad27.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\c\c10a76909668417c8bd4a4f7e29fad27.bin
+    projectPath: Library\ShaderCache\c\c10a76909668417c8bd4a4f7e29fad27.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d7ac5470dba1d4b9199955685bedbae0.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\d\d7ac5470dba1d4b9199955685bedbae0.bin
+    projectPath: Library\ShaderCache\d\d7ac5470dba1d4b9199955685bedbae0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d8e23877ae4c99a39cf49f19bb6c1536.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\d\d8e23877ae4c99a39cf49f19bb6c1536.bin
+    projectPath: Library\ShaderCache\d\d8e23877ae4c99a39cf49f19bb6c1536.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f1b1a98255751e31aaf737b073841d26.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\f\f1b1a98255751e31aaf737b073841d26.bin
+    projectPath: Library\ShaderCache\f\f1b1a98255751e31aaf737b073841d26.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f380fbedfcf59f759f44dd65d3667e9e.bin
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\ShaderCache\f\f380fbedfcf59f759f44dd65d3667e9e.bin
+    projectPath: Library\ShaderCache\f\f380fbedfcf59f759f44dd65d3667e9e.bin
+    originalPath: 
+    status: 1
     staged: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: TeamKernelGH.csproj
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\TeamKernelGH.csproj
-    projectPath: TeamKernelGH.csproj
     originalPath: 
     status: 3
     staged: 0
@@ -179,118 +339,735 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
+  - path: Temp\ProcessJobs\03531eec80d4fc437b31c7c012e222dd.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\03531eec80d4fc437b31c7c012e222dd.bakert
+    projectPath: Temp\ProcessJobs\03531eec80d4fc437b31c7c012e222dd.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\0366dcbf58c9a4afbc069335b2367035.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\0366dcbf58c9a4afbc069335b2367035.bakert
+    projectPath: Temp\ProcessJobs\0366dcbf58c9a4afbc069335b2367035.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\05532b5aa6650b26e5ffd2952cad7572.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\05532b5aa6650b26e5ffd2952cad7572.bakert
+    projectPath: Temp\ProcessJobs\05532b5aa6650b26e5ffd2952cad7572.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\0aa25a1e0cf3ad4aabcbc5dce28c9e7a.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\0aa25a1e0cf3ad4aabcbc5dce28c9e7a.bakert
+    projectPath: Temp\ProcessJobs\0aa25a1e0cf3ad4aabcbc5dce28c9e7a.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\0eeec4aadc5d3aa321abcbb542b2cc9e.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\0eeec4aadc5d3aa321abcbb542b2cc9e.bakert
+    projectPath: Temp\ProcessJobs\0eeec4aadc5d3aa321abcbb542b2cc9e.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\1684843e44e43a84ceaa47c22481d565.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\1684843e44e43a84ceaa47c22481d565.bakert
+    projectPath: Temp\ProcessJobs\1684843e44e43a84ceaa47c22481d565.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\1da9cd54c0fb0b6c3abadb207438fa14.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\1da9cd54c0fb0b6c3abadb207438fa14.bakert
+    projectPath: Temp\ProcessJobs\1da9cd54c0fb0b6c3abadb207438fa14.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\1ea6bcb88dbaf5d92ec75357d62ce294.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\1ea6bcb88dbaf5d92ec75357d62ce294.bakert
+    projectPath: Temp\ProcessJobs\1ea6bcb88dbaf5d92ec75357d62ce294.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\1f5aaa8b358a070f617db3f22c0cbe06.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\1f5aaa8b358a070f617db3f22c0cbe06.bakert
+    projectPath: Temp\ProcessJobs\1f5aaa8b358a070f617db3f22c0cbe06.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\22138475b755ffa83fc8fdec7af4c0ec.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\22138475b755ffa83fc8fdec7af4c0ec.bakert
+    projectPath: Temp\ProcessJobs\22138475b755ffa83fc8fdec7af4c0ec.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\24fcc94727f294669a373b27c72af610.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\24fcc94727f294669a373b27c72af610.bakert
+    projectPath: Temp\ProcessJobs\24fcc94727f294669a373b27c72af610.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\25e652e71aa424bb0f043e21c0f1a2b5.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\25e652e71aa424bb0f043e21c0f1a2b5.bakert
+    projectPath: Temp\ProcessJobs\25e652e71aa424bb0f043e21c0f1a2b5.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\25f5f68b4f242b6f5a7ded3d3640249a.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\25f5f68b4f242b6f5a7ded3d3640249a.bakert
+    projectPath: Temp\ProcessJobs\25f5f68b4f242b6f5a7ded3d3640249a.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\28c9d06e41e1c2a203b80c1619e94b8c.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\28c9d06e41e1c2a203b80c1619e94b8c.bakert
+    projectPath: Temp\ProcessJobs\28c9d06e41e1c2a203b80c1619e94b8c.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\291c4760700f3922eedabe697b9815e6.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\291c4760700f3922eedabe697b9815e6.bakert
+    projectPath: Temp\ProcessJobs\291c4760700f3922eedabe697b9815e6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\2a3d77013914a0e51d0a94bb49e5f7c3.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\2a3d77013914a0e51d0a94bb49e5f7c3.bakert
+    projectPath: Temp\ProcessJobs\2a3d77013914a0e51d0a94bb49e5f7c3.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\2af65b40667cb0cdfb120a0ab9e277a8.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\2af65b40667cb0cdfb120a0ab9e277a8.bakert
+    projectPath: Temp\ProcessJobs\2af65b40667cb0cdfb120a0ab9e277a8.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\2c092af5db32d1e2eb1f66e538d50170.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\2c092af5db32d1e2eb1f66e538d50170.bakert
+    projectPath: Temp\ProcessJobs\2c092af5db32d1e2eb1f66e538d50170.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\2c12105122a46a454e523be28e5473c6.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\2c12105122a46a454e523be28e5473c6.bakert
+    projectPath: Temp\ProcessJobs\2c12105122a46a454e523be28e5473c6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\2dc0a574091372622f3046839b14e89a.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\2dc0a574091372622f3046839b14e89a.bakert
+    projectPath: Temp\ProcessJobs\2dc0a574091372622f3046839b14e89a.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\2f2ea8fe2c68ee42564b42261916cc49.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\2f2ea8fe2c68ee42564b42261916cc49.bakert
+    projectPath: Temp\ProcessJobs\2f2ea8fe2c68ee42564b42261916cc49.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\30b4ae1359bb3d7c0762489cfadd3b44.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\30b4ae1359bb3d7c0762489cfadd3b44.bakert
+    projectPath: Temp\ProcessJobs\30b4ae1359bb3d7c0762489cfadd3b44.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\320bcada3b27632a669846249287efe3.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\320bcada3b27632a669846249287efe3.bakert
+    projectPath: Temp\ProcessJobs\320bcada3b27632a669846249287efe3.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\349f07dd87d8362a1e93612d1c2d914d.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\349f07dd87d8362a1e93612d1c2d914d.bakert
+    projectPath: Temp\ProcessJobs\349f07dd87d8362a1e93612d1c2d914d.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\37a40a2e12d3c3f3b81f79501bdb37bc.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\37a40a2e12d3c3f3b81f79501bdb37bc.bakert
+    projectPath: Temp\ProcessJobs\37a40a2e12d3c3f3b81f79501bdb37bc.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\38dda4094ed63bc7caddfada53a80a6d.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\38dda4094ed63bc7caddfada53a80a6d.bakert
+    projectPath: Temp\ProcessJobs\38dda4094ed63bc7caddfada53a80a6d.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\3afc904001aa981a524486d07cb6ec8d.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\3afc904001aa981a524486d07cb6ec8d.bakert
+    projectPath: Temp\ProcessJobs\3afc904001aa981a524486d07cb6ec8d.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\40f3f4888959fc6be5d75463167cf8ce.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\40f3f4888959fc6be5d75463167cf8ce.bakert
+    projectPath: Temp\ProcessJobs\40f3f4888959fc6be5d75463167cf8ce.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\43209c9523233512d71208ac3191f7b5.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\43209c9523233512d71208ac3191f7b5.bakert
+    projectPath: Temp\ProcessJobs\43209c9523233512d71208ac3191f7b5.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\4427af84d2d7942338a5461b6524bc67.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\4427af84d2d7942338a5461b6524bc67.bakert
+    projectPath: Temp\ProcessJobs\4427af84d2d7942338a5461b6524bc67.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\47c5927dc2063487d85c5aa94a3fa508.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\47c5927dc2063487d85c5aa94a3fa508.bakert
+    projectPath: Temp\ProcessJobs\47c5927dc2063487d85c5aa94a3fa508.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\47d34736a69f5cb9c9dc93f2e88248e5.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\47d34736a69f5cb9c9dc93f2e88248e5.bakert
+    projectPath: Temp\ProcessJobs\47d34736a69f5cb9c9dc93f2e88248e5.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\48d2649cfadee2e9e6bc6def4d08c023.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\48d2649cfadee2e9e6bc6def4d08c023.bakert
+    projectPath: Temp\ProcessJobs\48d2649cfadee2e9e6bc6def4d08c023.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\49863348dbff5a3ab54292014358e761.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\49863348dbff5a3ab54292014358e761.bakert
+    projectPath: Temp\ProcessJobs\49863348dbff5a3ab54292014358e761.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\4e2a275302b6ab651925e369e4df1cfb.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\4e2a275302b6ab651925e369e4df1cfb.bakert
+    projectPath: Temp\ProcessJobs\4e2a275302b6ab651925e369e4df1cfb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\500cb40b535be1ba233f31a37ee6ee47.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\500cb40b535be1ba233f31a37ee6ee47.bakert
+    projectPath: Temp\ProcessJobs\500cb40b535be1ba233f31a37ee6ee47.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\509292c35a3687022c72c6f548cdeba2.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\509292c35a3687022c72c6f548cdeba2.bakert
+    projectPath: Temp\ProcessJobs\509292c35a3687022c72c6f548cdeba2.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\52828b6943103bfc398218e1f54a9b66.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\52828b6943103bfc398218e1f54a9b66.bakert
+    projectPath: Temp\ProcessJobs\52828b6943103bfc398218e1f54a9b66.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\53bab38c8e0a6d649db6c8c94b9c015a.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\53bab38c8e0a6d649db6c8c94b9c015a.bakert
+    projectPath: Temp\ProcessJobs\53bab38c8e0a6d649db6c8c94b9c015a.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\55958655a7a0997d8b203703cf2dd4da.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\55958655a7a0997d8b203703cf2dd4da.bakert
+    projectPath: Temp\ProcessJobs\55958655a7a0997d8b203703cf2dd4da.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\5720d9bbef2ad5c567343d21d0db9617.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\5720d9bbef2ad5c567343d21d0db9617.bakert
+    projectPath: Temp\ProcessJobs\5720d9bbef2ad5c567343d21d0db9617.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\579574949123cfab068286e1f785c2dd.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\579574949123cfab068286e1f785c2dd.bakert
+    projectPath: Temp\ProcessJobs\579574949123cfab068286e1f785c2dd.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\59c87b2f651ad09fd035543f533bc349.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\59c87b2f651ad09fd035543f533bc349.bakert
+    projectPath: Temp\ProcessJobs\59c87b2f651ad09fd035543f533bc349.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\5e4b68da9a651395b68cbe0fececc706.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\5e4b68da9a651395b68cbe0fececc706.bakert
+    projectPath: Temp\ProcessJobs\5e4b68da9a651395b68cbe0fececc706.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\602aa20a77ca5a60791550d15f209193.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\602aa20a77ca5a60791550d15f209193.bakert
+    projectPath: Temp\ProcessJobs\602aa20a77ca5a60791550d15f209193.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\6165b0b79901b49ec265d4b030134e1f.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\6165b0b79901b49ec265d4b030134e1f.bakert
+    projectPath: Temp\ProcessJobs\6165b0b79901b49ec265d4b030134e1f.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\61ab1d3f25657bc32f5123ff8a50800e.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\61ab1d3f25657bc32f5123ff8a50800e.bakert
+    projectPath: Temp\ProcessJobs\61ab1d3f25657bc32f5123ff8a50800e.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\6dbed813e8d61330e9dd4468d0956400.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\6dbed813e8d61330e9dd4468d0956400.bakert
+    projectPath: Temp\ProcessJobs\6dbed813e8d61330e9dd4468d0956400.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\6e97afac16d58ce04d116147b2a7eaa4.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\6e97afac16d58ce04d116147b2a7eaa4.bakert
+    projectPath: Temp\ProcessJobs\6e97afac16d58ce04d116147b2a7eaa4.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\6eee6fdfaae115fbf3bc32cfad26fca3.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\6eee6fdfaae115fbf3bc32cfad26fca3.bakert
+    projectPath: Temp\ProcessJobs\6eee6fdfaae115fbf3bc32cfad26fca3.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\7426170daa8e56a35af3ceb474739d5f.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\7426170daa8e56a35af3ceb474739d5f.bakert
+    projectPath: Temp\ProcessJobs\7426170daa8e56a35af3ceb474739d5f.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\755b14bb59feacefc6b726e748497ac0.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\755b14bb59feacefc6b726e748497ac0.bakert
+    projectPath: Temp\ProcessJobs\755b14bb59feacefc6b726e748497ac0.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\7813af08d1e734f065a869913dd88dcb.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\7813af08d1e734f065a869913dd88dcb.bakert
+    projectPath: Temp\ProcessJobs\7813af08d1e734f065a869913dd88dcb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\7da8dbdcf5af398ac3c1c8569a2ea61c.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\7da8dbdcf5af398ac3c1c8569a2ea61c.bakert
+    projectPath: Temp\ProcessJobs\7da8dbdcf5af398ac3c1c8569a2ea61c.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\7dabedbd71d6a5b94e8d138be464f4b6.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\7dabedbd71d6a5b94e8d138be464f4b6.bakert
+    projectPath: Temp\ProcessJobs\7dabedbd71d6a5b94e8d138be464f4b6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\7f389b98f4c83a9b95c02b36bc945f68.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\7f389b98f4c83a9b95c02b36bc945f68.bakert
+    projectPath: Temp\ProcessJobs\7f389b98f4c83a9b95c02b36bc945f68.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\81488d9ef47e1b4e58fe7d5efb869929.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\81488d9ef47e1b4e58fe7d5efb869929.bakert
+    projectPath: Temp\ProcessJobs\81488d9ef47e1b4e58fe7d5efb869929.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\817beb616b91223b866cec115649d6e1.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\817beb616b91223b866cec115649d6e1.bakert
+    projectPath: Temp\ProcessJobs\817beb616b91223b866cec115649d6e1.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\8221d9bdaa3ebe876d1337382ca76cdf.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\8221d9bdaa3ebe876d1337382ca76cdf.bakert
+    projectPath: Temp\ProcessJobs\8221d9bdaa3ebe876d1337382ca76cdf.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\82e60d5e2eef334a048b754fe181334c.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\82e60d5e2eef334a048b754fe181334c.bakert
+    projectPath: Temp\ProcessJobs\82e60d5e2eef334a048b754fe181334c.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\890e7ccbdd807c26b94efb655863a339.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\890e7ccbdd807c26b94efb655863a339.bakert
+    projectPath: Temp\ProcessJobs\890e7ccbdd807c26b94efb655863a339.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\8adc8cec937de18fa6d1cf76b348abfa.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\8adc8cec937de18fa6d1cf76b348abfa.bakert
+    projectPath: Temp\ProcessJobs\8adc8cec937de18fa6d1cf76b348abfa.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\8c79cbda0687be18ef33b9345f46fd4a.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\8c79cbda0687be18ef33b9345f46fd4a.bakert
+    projectPath: Temp\ProcessJobs\8c79cbda0687be18ef33b9345f46fd4a.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\8ec02662e57ec04f04e0cfa0fcd36629.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\8ec02662e57ec04f04e0cfa0fcd36629.bakert
+    projectPath: Temp\ProcessJobs\8ec02662e57ec04f04e0cfa0fcd36629.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\92c3e88510c3b3cf90a6788dfe5e2d78.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\92c3e88510c3b3cf90a6788dfe5e2d78.bakert
+    projectPath: Temp\ProcessJobs\92c3e88510c3b3cf90a6788dfe5e2d78.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\95221da00403267331a1cd3b32470279.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\95221da00403267331a1cd3b32470279.bakert
+    projectPath: Temp\ProcessJobs\95221da00403267331a1cd3b32470279.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\95e5aa18a0de11a0f25a69aea1ec91e0.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\95e5aa18a0de11a0f25a69aea1ec91e0.bakert
+    projectPath: Temp\ProcessJobs\95e5aa18a0de11a0f25a69aea1ec91e0.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\9b83af78bb4de47cfa9fa0d9f704e1c7.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\9b83af78bb4de47cfa9fa0d9f704e1c7.bakert
+    projectPath: Temp\ProcessJobs\9b83af78bb4de47cfa9fa0d9f704e1c7.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\9e86ee9f6cce88c9dcb8afd4fb33be79.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\9e86ee9f6cce88c9dcb8afd4fb33be79.bakert
+    projectPath: Temp\ProcessJobs\9e86ee9f6cce88c9dcb8afd4fb33be79.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\9fcac12ec24ce8a56da57b0c9b194a1f.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\9fcac12ec24ce8a56da57b0c9b194a1f.bakert
+    projectPath: Temp\ProcessJobs\9fcac12ec24ce8a56da57b0c9b194a1f.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\a02f86e6d1006f392c9808626a355995.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\a02f86e6d1006f392c9808626a355995.bakert
+    projectPath: Temp\ProcessJobs\a02f86e6d1006f392c9808626a355995.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\a27cde6d175d31a5c7c7db402d0bfa96.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\a27cde6d175d31a5c7c7db402d0bfa96.bakert
+    projectPath: Temp\ProcessJobs\a27cde6d175d31a5c7c7db402d0bfa96.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\a7a18e70cb4ff352b2cab65d7607c5fd.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\a7a18e70cb4ff352b2cab65d7607c5fd.bakert
+    projectPath: Temp\ProcessJobs\a7a18e70cb4ff352b2cab65d7607c5fd.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\acd65f2c8d8a25a42776605a2daef258.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\acd65f2c8d8a25a42776605a2daef258.bakert
+    projectPath: Temp\ProcessJobs\acd65f2c8d8a25a42776605a2daef258.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\acf29a3086d97d174f3edc798a7ae787.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\acf29a3086d97d174f3edc798a7ae787.bakert
+    projectPath: Temp\ProcessJobs\acf29a3086d97d174f3edc798a7ae787.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\b08b736b6ac379f3270c3f89b9f92676.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\b08b736b6ac379f3270c3f89b9f92676.bakert
+    projectPath: Temp\ProcessJobs\b08b736b6ac379f3270c3f89b9f92676.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\b17f7f5dd54b09aaf5a763d452ce4194.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\b17f7f5dd54b09aaf5a763d452ce4194.bakert
+    projectPath: Temp\ProcessJobs\b17f7f5dd54b09aaf5a763d452ce4194.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\b28e0abafa3f9fad8f184a362f32ab26.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\b28e0abafa3f9fad8f184a362f32ab26.bakert
+    projectPath: Temp\ProcessJobs\b28e0abafa3f9fad8f184a362f32ab26.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\b2e0600c4cbf7e10cfa0e29c40552120.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\b2e0600c4cbf7e10cfa0e29c40552120.bakert
+    projectPath: Temp\ProcessJobs\b2e0600c4cbf7e10cfa0e29c40552120.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\b480ba507628d352544f9d601ef20336.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\b480ba507628d352544f9d601ef20336.bakert
+    projectPath: Temp\ProcessJobs\b480ba507628d352544f9d601ef20336.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\bd4a118ea292cd540ada8b2a8ae1fd3e.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\bd4a118ea292cd540ada8b2a8ae1fd3e.bakert
+    projectPath: Temp\ProcessJobs\bd4a118ea292cd540ada8b2a8ae1fd3e.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\bd538f2297ca5f7e61bbeba33da2df16.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\bd538f2297ca5f7e61bbeba33da2df16.bakert
+    projectPath: Temp\ProcessJobs\bd538f2297ca5f7e61bbeba33da2df16.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\bdd0627ee46b385a3c714dc10904d5b6.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\bdd0627ee46b385a3c714dc10904d5b6.bakert
+    projectPath: Temp\ProcessJobs\bdd0627ee46b385a3c714dc10904d5b6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\c13aa887bc2243d10a3c4db29587643e.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\c13aa887bc2243d10a3c4db29587643e.bakert
+    projectPath: Temp\ProcessJobs\c13aa887bc2243d10a3c4db29587643e.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\c1bd4b7e2c8ebe2754c7fbeb0c47094f.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\c1bd4b7e2c8ebe2754c7fbeb0c47094f.bakert
+    projectPath: Temp\ProcessJobs\c1bd4b7e2c8ebe2754c7fbeb0c47094f.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\c35e16ab6305232aa53c8008f17e3d81.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\c35e16ab6305232aa53c8008f17e3d81.bakert
+    projectPath: Temp\ProcessJobs\c35e16ab6305232aa53c8008f17e3d81.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\c3f05bdbb6084c5d1a469736e9bce6b2.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\c3f05bdbb6084c5d1a469736e9bce6b2.bakert
+    projectPath: Temp\ProcessJobs\c3f05bdbb6084c5d1a469736e9bce6b2.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\c8757f93bbffcfa0c5ecbd3424fc4669.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\c8757f93bbffcfa0c5ecbd3424fc4669.bakert
+    projectPath: Temp\ProcessJobs\c8757f93bbffcfa0c5ecbd3424fc4669.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\cd98c1539c1b436c0fdc3045f6230c5c.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\cd98c1539c1b436c0fdc3045f6230c5c.bakert
+    projectPath: Temp\ProcessJobs\cd98c1539c1b436c0fdc3045f6230c5c.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\ce22733bec42331f6f73966576a62163.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\ce22733bec42331f6f73966576a62163.bakert
+    projectPath: Temp\ProcessJobs\ce22733bec42331f6f73966576a62163.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\ceffcdba955640fd6c94151a7db1e3b1.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\ceffcdba955640fd6c94151a7db1e3b1.bakert
+    projectPath: Temp\ProcessJobs\ceffcdba955640fd6c94151a7db1e3b1.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\d16c8537a3dd4743fa819fe9d5e9a383.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\d16c8537a3dd4743fa819fe9d5e9a383.bakert
+    projectPath: Temp\ProcessJobs\d16c8537a3dd4743fa819fe9d5e9a383.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\d2e7be6fcf1ea76603de383abd6eb430.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\d2e7be6fcf1ea76603de383abd6eb430.bakert
+    projectPath: Temp\ProcessJobs\d2e7be6fcf1ea76603de383abd6eb430.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\d3ff55fab014b4d86aa5d0d3258efb9a.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\d3ff55fab014b4d86aa5d0d3258efb9a.bakert
+    projectPath: Temp\ProcessJobs\d3ff55fab014b4d86aa5d0d3258efb9a.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\d6cfaea55950f6a53e32f57aa1e8e62a.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\d6cfaea55950f6a53e32f57aa1e8e62a.bakert
+    projectPath: Temp\ProcessJobs\d6cfaea55950f6a53e32f57aa1e8e62a.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\d6d7aa6fcd2ff08631e84ce7f02a7a7d.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\d6d7aa6fcd2ff08631e84ce7f02a7a7d.bakert
+    projectPath: Temp\ProcessJobs\d6d7aa6fcd2ff08631e84ce7f02a7a7d.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\dae7c28f15a9cce491be40bdd25d806b.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\dae7c28f15a9cce491be40bdd25d806b.bakert
+    projectPath: Temp\ProcessJobs\dae7c28f15a9cce491be40bdd25d806b.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\dbb16e375beb6ff979ec33ab61c38516.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\dbb16e375beb6ff979ec33ab61c38516.bakert
+    projectPath: Temp\ProcessJobs\dbb16e375beb6ff979ec33ab61c38516.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\dfb4ecc15d4d14e6e3ea6588d77a4bb4.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\dfb4ecc15d4d14e6e3ea6588d77a4bb4.bakert
+    projectPath: Temp\ProcessJobs\dfb4ecc15d4d14e6e3ea6588d77a4bb4.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e04c2cb9d7a592644f60c7c8e5d2605e.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\e04c2cb9d7a592644f60c7c8e5d2605e.bakert
+    projectPath: Temp\ProcessJobs\e04c2cb9d7a592644f60c7c8e5d2605e.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e427f1ac69748b0b6d05e3a9fa942f08.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\e427f1ac69748b0b6d05e3a9fa942f08.bakert
+    projectPath: Temp\ProcessJobs\e427f1ac69748b0b6d05e3a9fa942f08.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\ea4e5cedd556103f933df2a34bc9e06d.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\ea4e5cedd556103f933df2a34bc9e06d.bakert
+    projectPath: Temp\ProcessJobs\ea4e5cedd556103f933df2a34bc9e06d.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\ec0353a31da08927f12cb0271c1b7ad4.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\ec0353a31da08927f12cb0271c1b7ad4.bakert
+    projectPath: Temp\ProcessJobs\ec0353a31da08927f12cb0271c1b7ad4.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\ec38a3b241906a48064252a276b6fa82.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\ec38a3b241906a48064252a276b6fa82.bakert
+    projectPath: Temp\ProcessJobs\ec38a3b241906a48064252a276b6fa82.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\ec8a1b0df3ffc84b0f11c604751be442.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\ec8a1b0df3ffc84b0f11c604751be442.bakert
+    projectPath: Temp\ProcessJobs\ec8a1b0df3ffc84b0f11c604751be442.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\ee1664fc61582f60ee41df622b4885e5.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\ee1664fc61582f60ee41df622b4885e5.bakert
+    projectPath: Temp\ProcessJobs\ee1664fc61582f60ee41df622b4885e5.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f0ade30602f95a74861cf73cec9386f5.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\f0ade30602f95a74861cf73cec9386f5.bakert
+    projectPath: Temp\ProcessJobs\f0ade30602f95a74861cf73cec9386f5.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f7505d049f728c6a472c272e69afb736.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\f7505d049f728c6a472c272e69afb736.bakert
+    projectPath: Temp\ProcessJobs\f7505d049f728c6a472c272e69afb736.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f88b70668767ac8c73b80ab0348e0433.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\f88b70668767ac8c73b80ab0348e0433.bakert
+    projectPath: Temp\ProcessJobs\f88b70668767ac8c73b80ab0348e0433.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f9065b9af85b6baf5c9dd96027fcfc29.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\f9065b9af85b6baf5c9dd96027fcfc29.bakert
+    projectPath: Temp\ProcessJobs\f9065b9af85b6baf5c9dd96027fcfc29.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f98d33f69838d51d4816fda0f7f977f6.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\f98d33f69838d51d4816fda0f7f977f6.bakert
+    projectPath: Temp\ProcessJobs\f98d33f69838d51d4816fda0f7f977f6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\fa0739427a0faacd9b29381109010075.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\fa0739427a0faacd9b29381109010075.bakert
+    projectPath: Temp\ProcessJobs\fa0739427a0faacd9b29381109010075.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\fca4bd053285222c0ead471cc6e251c0.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\fca4bd053285222c0ead471cc6e251c0.bakert
+    projectPath: Temp\ProcessJobs\fca4bd053285222c0ead471cc6e251c0.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\ff4eb796c0a9ffb22b02915bd66f9a60.bakert
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\ProcessJobs\ff4eb796c0a9ffb22b02915bd66f9a60.bakert
+    projectPath: Temp\ProcessJobs\ff4eb796c0a9ffb22b02915bd66f9a60.bakert
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Temp\UnityLockfile
     fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-3932050799ba2b74892fb268e8d73583
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-3932050799ba2b74892fb268e8d73583
-    projectPath: Temp\UnityTempFile-3932050799ba2b74892fb268e8d73583
+  - path: Temp\UnityTempFile-3ab02a8164b497740adcaf95c1e8773e
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-3ab02a8164b497740adcaf95c1e8773e
+    projectPath: Temp\UnityTempFile-3ab02a8164b497740adcaf95c1e8773e
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-4052ae2acba63404792740dd2756ea6f
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-4052ae2acba63404792740dd2756ea6f
-    projectPath: Temp\UnityTempFile-4052ae2acba63404792740dd2756ea6f
+  - path: Temp\UnityTempFile-409ea23368bdd75489fc0492c2008a24
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-409ea23368bdd75489fc0492c2008a24
+    projectPath: Temp\UnityTempFile-409ea23368bdd75489fc0492c2008a24
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-44d5e3881af038743a6c91d3f544e322
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-44d5e3881af038743a6c91d3f544e322
-    projectPath: Temp\UnityTempFile-44d5e3881af038743a6c91d3f544e322
+  - path: Temp\UnityTempFile-4c72da472efc8bc41905034457a9b58d
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-4c72da472efc8bc41905034457a9b58d
+    projectPath: Temp\UnityTempFile-4c72da472efc8bc41905034457a9b58d
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-6dcb65358a3857640aa555f23a343ff5
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-6dcb65358a3857640aa555f23a343ff5
-    projectPath: Temp\UnityTempFile-6dcb65358a3857640aa555f23a343ff5
+  - path: Temp\UnityTempFile-526283bef446b3747af522c50df6ad29
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-526283bef446b3747af522c50df6ad29
+    projectPath: Temp\UnityTempFile-526283bef446b3747af522c50df6ad29
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-803523ff8ce9ea74f97e88df280ae2d4
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-803523ff8ce9ea74f97e88df280ae2d4
-    projectPath: Temp\UnityTempFile-803523ff8ce9ea74f97e88df280ae2d4
+  - path: Temp\UnityTempFile-5754a6aa7602b424585589990cc613ba
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-5754a6aa7602b424585589990cc613ba
+    projectPath: Temp\UnityTempFile-5754a6aa7602b424585589990cc613ba
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-857df17fbfd8295419f5e65201540c03
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-857df17fbfd8295419f5e65201540c03
-    projectPath: Temp\UnityTempFile-857df17fbfd8295419f5e65201540c03
+  - path: Temp\UnityTempFile-b50939ae178c000418475ef3c1e00dfb
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-b50939ae178c000418475ef3c1e00dfb
+    projectPath: Temp\UnityTempFile-b50939ae178c000418475ef3c1e00dfb
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-8ec322e99058d3546bbede8147af8414
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-8ec322e99058d3546bbede8147af8414
-    projectPath: Temp\UnityTempFile-8ec322e99058d3546bbede8147af8414
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-a41c5967b91646d48af44c6b0dd170fd
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-a41c5967b91646d48af44c6b0dd170fd
-    projectPath: Temp\UnityTempFile-a41c5967b91646d48af44c6b0dd170fd
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-bf1505d90bbee0f4f8e4fe4fc8e9d99c
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-bf1505d90bbee0f4f8e4fe4fc8e9d99c
-    projectPath: Temp\UnityTempFile-bf1505d90bbee0f4f8e4fe4fc8e9d99c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-d9a7bfdc1f3e3684c80cf2cba66a1594
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-d9a7bfdc1f3e3684c80cf2cba66a1594
-    projectPath: Temp\UnityTempFile-d9a7bfdc1f3e3684c80cf2cba66a1594
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-de790bef4e588b24cae285b0d6e87bca
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-de790bef4e588b24cae285b0d6e87bca
-    projectPath: Temp\UnityTempFile-de790bef4e588b24cae285b0d6e87bca
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-e2664aeecc758e54e82e19137710c2ad
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-e2664aeecc758e54e82e19137710c2ad
-    projectPath: Temp\UnityTempFile-e2664aeecc758e54e82e19137710c2ad
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-e34b6d6666920244ca838b9f348c3513
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-e34b6d6666920244ca838b9f348c3513
-    projectPath: Temp\UnityTempFile-e34b6d6666920244ca838b9f348c3513
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-eeab140c72631c045b8d49f2ae93bd9f
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-eeab140c72631c045b8d49f2ae93bd9f
-    projectPath: Temp\UnityTempFile-eeab140c72631c045b8d49f2ae93bd9f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-f90469a1e241bd949873c11beda3ea45
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-f90469a1e241bd949873c11beda3ea45
-    projectPath: Temp\UnityTempFile-f90469a1e241bd949873c11beda3ea45
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-fe6f2a930a2fe8748bce1f924d937b3b
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-fe6f2a930a2fe8748bce1f924d937b3b
-    projectPath: Temp\UnityTempFile-fe6f2a930a2fe8748bce1f924d937b3b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-fec4d5ecdeda4ed4481b24b66b7885a3
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-fec4d5ecdeda4ed4481b24b66b7885a3
-    projectPath: Temp\UnityTempFile-fec4d5ecdeda4ed4481b24b66b7885a3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityVS\Visual Studio 2017 Tools.unitypackage
-    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityVS\Visual Studio
-      2017 Tools.unitypackage
-    projectPath: Temp\UnityVS\Visual Studio 2017 Tools.unitypackage
+  - path: Temp\UnityTempFile-e761f32c92352f447b9fe0f5448e23a4
+    fullPath: C:\Users\CarlosJaimes\Documents\TeamKernelGH\Temp\UnityTempFile-e761f32c92352f447b9fe0f5448e23a4
+    projectPath: Temp\UnityTempFile-e761f32c92352f447b9fe0f5448e23a4
     originalPath: 
     status: 1
     staged: 0
